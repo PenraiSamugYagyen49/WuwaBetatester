@@ -20,9 +20,9 @@ import './CharactersLayoutFix.css';
 import './components/characters/CharacterDetailPage.css';
 import './HomeHeroLayout.css';
 
-const navigation = [['Resonators', '/characters', 'Resonator archive'], ['Tier List', '/tier-list', 'Combat rankings'], ['Echoes', '/echoes', 'Echo database'], ['Weapons', '/weapons', 'Weapon archive'], ['Items', '/items', 'Material inventory'], ['Game Guide', '/guide', 'Field guide']];
-const menuItems = [['Resonators', '/characters'], ['Weapons', '/weapons'], ['Echoes', '/echoes'], ['Tier List', '/tier-list'], ['Items', '/items'], ['Game Guide', '/guide']];
-const entries = { 'Tier List': ['S+ · Shorekeeper', 'S · Jinhsi', 'S · Carlotta'], Echoes: ['Fallacy of No Return', 'Bell-Borne Geochelone', 'Impermanence Heron'], Weapons: ['Stellar Symphony', 'Ages of Harvest', 'Stringmaster'], Items: ['Whisperin Core', 'Howler Core', 'Waveworn Residue'], 'Game Guide': ['Getting Started', 'Combat Basics', 'Echo Tuning'] };
+const navigation = [['Resonators', '/characters', 'Resonator archive'], ['Echoes', '/echoes', 'Echo database'], ['Weapons', '/weapons', 'Weapon archive'], ['Items', '/items', 'Material inventory'], ['Game Guide', '/guide', 'Field guide']];
+const menuItems = [['Resonators', '/characters'], ['Weapons', '/weapons'], ['Echoes', '/echoes'], ['Items', '/items'], ['Game Guide', '/guide']];
+const entries = { Echoes: ['Fallacy of No Return', 'Bell-Borne Geochelone', 'Impermanence Heron'], Weapons: ['Stellar Symphony', 'Ages of Harvest', 'Stringmaster'], Items: ['Whisperin Core', 'Howler Core', 'Waveworn Residue'], 'Game Guide': ['Getting Started', 'Combat Basics', 'Echo Tuning'] };
 
 function pageForPath(path) {
   if (path === '/') return 'Home';

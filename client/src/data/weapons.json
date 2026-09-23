@@ -1,0 +1,3278 @@
+[
+  {
+    "id": "lustrous-razor",
+    "slug": "lustrous-razor",
+    "name": "Lustrous Razor",
+    "rarity": 5,
+    "type": "Broadblade",
+    "image": "/assets/weapons/lustrous-razor.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21010015_UI.png",
+    "stats": {
+      "atk": "374.68",
+      "secondary": "ATK 27.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Waveworn Residue 235",
+        "quantity": "6"
+      },
+      {
+        "name": "HF Whisperin Core",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Stormy Resolution",
+      "description": "Increases Energy Regen by 12.8%. When Resonance Skill is cast, Resonance Liberation DMG Bonus is increased by 7%, stacking up to 3 times. This effect lasts for 12 s."
+    },
+    "about": "Gaze upon this Broadblade, its sharp edges gleaming in the frigid air. Wield it to feel power coursing through you like a raging river.",
+    "source": "https://wuthering.gg/weapons/lustrous-razor"
+  },
+  {
+    "id": "emerald-of-genesis",
+    "slug": "emerald-of-genesis",
+    "name": "Emerald of Genesis",
+    "rarity": 5,
+    "type": "Sword",
+    "image": "/assets/weapons/emerald-of-genesis.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21020015_UI.png",
+    "stats": {
+      "atk": "374.68",
+      "secondary": "Crit. Rate 18.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Polarized Metallic Drip",
+        "quantity": "6"
+      },
+      {
+        "name": "HF Howler Core",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Stormy Resolution",
+      "description": "Increases Energy Regen by 12.8%. When Resonance Skill is cast, increases ATK by 6%, stacking up to 2 time(s). This effect lasts for 10 s."
+    },
+    "about": "Pay heed: the frigid blade reveals an icy current, amalgamating into a whirlpool of thoughts. Use this powerful sequence to effortlessly crush your enemies with the Sword.",
+    "source": "https://wuthering.gg/weapons/emerald-of-genesis"
+  },
+  {
+    "id": "static-mist",
+    "slug": "static-mist",
+    "name": "Static Mist",
+    "rarity": 5,
+    "type": "Pistols",
+    "image": "/assets/weapons/static-mist.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21030015_UI.png",
+    "stats": {
+      "atk": "374.68",
+      "secondary": "Crit. Rate 18.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Refined Phlogiston",
+        "quantity": "6"
+      },
+      {
+        "name": "Improved Ring",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Stormy Resolution",
+      "description": "Increases Energy Regen by 12.8%. Incoming Resonator's ATK is increased by 10% for 14 s, stackable for up to 1 times after the wielder casts Outro Skill."
+    },
+    "about": "Grip the sleek frame and feel its cool surface as you aim down the sight. With a pull of the trigger, unleash a thick smoke barrage onto the battlefield with these powerful Pistols in your hands.",
+    "source": "https://wuthering.gg/weapons/static-mist"
+  },
+  {
+    "id": "abyss-surges",
+    "slug": "abyss-surges",
+    "name": "Abyss Surges",
+    "rarity": 5,
+    "type": "Gauntlet",
+    "image": "/assets/weapons/abyss-surges.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21040015_UI.png",
+    "stats": {
+      "atk": "374.68",
+      "secondary": "ATK 27.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Cadence Leaf",
+        "quantity": "6"
+      },
+      {
+        "name": "HF Howler Core",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Stormy Resolution",
+      "description": "Increases Energy Regen by 12.8%. When hitting a target with Resonance Skill, increases Basic Attack DMG Bonus by 10%, lasting for 8 s. When hitting a target with Basic Attacks, increases Resonance Skill DMG Bonus by 10%, lasting for 8 s."
+    },
+    "about": "The Gauntlets pulsate with an uncontrollable force, emanating unspeakable anger from the depths of the unknown lake. As you don them, unleash your fury on helpless enemies. Feel its power surge through you.",
+    "source": "https://wuthering.gg/weapons/abyss-surges"
+  },
+  {
+    "id": "cosmic-ripples",
+    "slug": "cosmic-ripples",
+    "name": "Cosmic Ripples",
+    "rarity": 5,
+    "type": "Rectifier",
+    "image": "/assets/weapons/cosmic-ripples.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21050015_UI.png",
+    "stats": {
+      "atk": "318.88",
+      "secondary": "ATK 40.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Andante Helix",
+        "quantity": "6"
+      },
+      {
+        "name": "Improved Ring",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Stormy Resolution",
+      "description": "Increases Energy Regen by 12.8%. When dealing Basic Attack DMG, increases Basic Attack DMG Bonus by 3.2%, stacking up to 5 time(s). This effect lasts for 8 s and can be triggered 1 time(s) every 0.5 s."
+    },
+    "about": "Take hold of the frozen Rectifier, a powerful tool imbued with the energy of the celestial lake. Let it lead you to ultimate knowledge and vanquish all obstacles in your path.",
+    "source": "https://wuthering.gg/weapons/cosmic-ripples"
+  },
+  {
+    "id": "verdant-summit",
+    "slug": "verdant-summit",
+    "name": "Verdant Summit",
+    "rarity": 5,
+    "type": "Broadblade",
+    "image": "/assets/weapons/verdant-summit.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21010016_UI.png",
+    "stats": {
+      "atk": "374.68",
+      "secondary": "Crit. DMG 36.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Waveworn Residue 235",
+        "quantity": "6"
+      },
+      {
+        "name": "HF Whisperin Core",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Swordsworn",
+      "description": "Increases Attribute DMG Bonus by 12%. Every time Intro Skill or Resonance Liberation is cast, increases Heavy Attack DMG Bonus by 24%, stacking up to 2 time(s). This effect lasts for 14 s."
+    },
+    "about": "The ancient mountain stands tall, its peak reaching towards the sky. A river flows for thousands of years, forming the blade of a powerful weapon. As it is unsheathed, a powerful dragon's roar echoes through the heavens and earth, causing the sea to churn. This awe-inspiring weapon strikes fear in all who witness its might.",
+    "source": "https://wuthering.gg/weapons/verdant-summit"
+  },
+  {
+    "id": "stringmaster",
+    "slug": "stringmaster",
+    "name": "Stringmaster",
+    "rarity": 5,
+    "type": "Rectifier",
+    "image": "/assets/weapons/stringmaster.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21050016_UI.png",
+    "stats": {
+      "atk": "318.88",
+      "secondary": "Crit. Rate 26.67%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Andante Helix",
+        "quantity": "6"
+      },
+      {
+        "name": "Improved Ring",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Electric Amplification",
+      "description": "Grants 12% Attribute DMG Bonus. When dealing Resonance Skill DMG, increases ATK by 12%, stacking up to 2 times. This effect lasts for 5 s. When the wielder is not on the field, increases their ATK by an additional 12%."
+    },
+    "about": "The puppet's palm unfurls, releasing deadly strings with a menacing hum. The air crackles, immobilizing foes and leaving unhealable scars from rapid electric bolts.",
+    "source": "https://wuthering.gg/weapons/stringmaster"
+  },
+  {
+    "id": "ages-of-harvest",
+    "slug": "ages-of-harvest",
+    "name": "Ages of Harvest",
+    "rarity": 5,
+    "type": "Broadblade",
+    "image": "/assets/weapons/ages-of-harvest.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21010026_UI.png",
+    "stats": {
+      "atk": "374.68",
+      "secondary": "Crit. Rate 18.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Waveworn Residue 235",
+        "quantity": "6"
+      },
+      {
+        "name": "HF Whisperin Core",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Divine Blessing",
+      "description": "Grants 12% Attribute DMG Bonus. Casting Intro Skill gives the equipper Ageless Marking, which grants 24% Resonance Skill DMG Bonus for 12 s. Casting Resonance Skill gives the equipper Ethereal Endowment, which grants 24% Resonance Skill DMG Bonus for 12 s."
+    },
+    "about": "Each swing of the blade reveals the flow of time and the change of the stars. The sword embodies all things, uniting them into one. Its gentle aura seems capable of dissolving the indestructible, whether it's millennia-old ice or the stagnation of time.",
+    "source": "https://wuthering.gg/weapons/ages-of-harvest"
+  },
+  {
+    "id": "blazing-brilliance",
+    "slug": "blazing-brilliance",
+    "name": "Blazing Brilliance",
+    "rarity": 5,
+    "type": "Sword",
+    "image": "/assets/weapons/blazing-brilliance.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21020016_UI.png",
+    "stats": {
+      "atk": "374.68",
+      "secondary": "Crit. DMG 36.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Polarized Metallic Drip",
+        "quantity": "6"
+      },
+      {
+        "name": "HF Howler Core",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Crimson Phoenix",
+      "description": "ATK increased by 12%. The wielder gains 1 stack of Searing Feather upon dealing damage, which can be triggered once every 0.5s, and gains 5 stacks of the same effect upon casting Resonance Skill. Each stack of Searing Feather gives 4% additional Resonance Skill DMG Bonus for up to 14 stacks. After reaching the max stacks, all stacks will be removed in 12 s."
+    },
+    "about": "Forged from the very essence and feathers of a legendary bird, this weapon blazes with an intensity that bathes the world in its luminous glow. With each fiery surge, it consumes all in its path, leaving nothing but ashes in its wake.",
+    "source": "https://wuthering.gg/weapons/blazing-brilliance"
+  },
+  {
+    "id": "rime-draped-sprouts",
+    "slug": "rime-draped-sprouts",
+    "name": "Rime-Draped Sprouts",
+    "rarity": 5,
+    "type": "Gauntlet",
+    "image": "/assets/weapons/rime-draped-sprouts.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21050026_UI.png",
+    "stats": {
+      "atk": "318.88",
+      "secondary": "Crit. DMG 53.33%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Andante Helix",
+        "quantity": "6"
+      },
+      {
+        "name": "Improved Ring",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Panorama",
+      "description": "Increase ATK by 12%. While the wielder is on the field, using Resonance Skill grants 12% Basic Attack DMG Bonus, stacking up to 3 times for 6 s. At 3 stacks or above, casting Outro Skill consumes all stacks of this effect and grants the wielder 52% Basic Attack DMG Bonus for 27 s, effective when the wielder is off the field."
+    },
+    "about": "An artist's seal adorned with rimed sprouts. It is stamped on numerous paintings that capture mountains and ravines in expressive, mesmerizing strokes. The tender sprouts symbolize the perpetual blossoming of artistic marvels.",
+    "source": "https://wuthering.gg/weapons/rime-draped-sprouts"
+  },
+  {
+    "id": "verity-s-handle",
+    "slug": "verity-s-handle",
+    "name": "Verity's Handle",
+    "rarity": 5,
+    "type": "Gauntlet",
+    "image": "/assets/weapons/verity-s-handle.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21040016_UI.png",
+    "stats": {
+      "atk": "374.68",
+      "secondary": "Crit. Rate 18.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Cadence Leaf",
+        "quantity": "6"
+      },
+      {
+        "name": "HF Howler Core",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Ad Veritatem",
+      "description": "Gain 12% Attribute DMG Bonus. When using Resonance Liberation, the wielder gains 48% Resonance Liberation DMG Bonus for 8 s. This effect can be extended by 5 s each time Resonance Skills are cast, up to 3 times."
+    },
+    "about": "Crafted with the lost art from the Court of Savantae, these gauntlets are solid and unbreakable, despite their lightweight materials. They are no tools of violence or aggression, but instruments for unraveling puzzles and pursuing the truth.",
+    "source": "https://wuthering.gg/weapons/veritys-handle"
+  },
+  {
+    "id": "stellar-symphony",
+    "slug": "stellar-symphony",
+    "name": "Stellar Symphony",
+    "rarity": 5,
+    "type": "Rectifier",
+    "image": "/assets/weapons/stellar-symphony.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21050027_UI.png",
+    "stats": {
+      "atk": "263.07",
+      "secondary": "Energy Regen 57.07%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Andante Helix",
+        "quantity": "6"
+      },
+      {
+        "name": "Improved Ring",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Astral Evolvement",
+      "description": "Increase HP by 12%. Restore 8 Concerto Energy when casting Resonance Liberation. This effect can be triggered 1 time(s) every 20 s. When casting Resonance Skill that heals, increase nearby party members' ATK by 14% for 30 s. Effects of the same name cannot be stacked."
+    },
+    "about": "A rectifier bearing an energy core that simulates the lifecycle of stars—an infinite loop that originates from a singularity and ends in explosive demise. The celestial debris collides in thunderous rumbles, heralding the birth of a new star.",
+    "source": "https://wuthering.gg/weapons/stellar-symphony"
+  },
+  {
+    "id": "red-spring",
+    "slug": "red-spring",
+    "name": "Red Spring",
+    "rarity": 5,
+    "type": "Sword",
+    "image": "/assets/weapons/red-spring.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21020017_UI.png",
+    "stats": {
+      "atk": "374.68",
+      "secondary": "Crit. Rate 18.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Polarized Metallic Drip",
+        "quantity": "6"
+      },
+      {
+        "name": "HF Howler Core",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Beyond the Cycle",
+      "description": "Increase ATK by 12%. When dealing Basic Attack DMG, the wielder gains 10% Basic Attack DMG Bonus for 14 s. This effect can be triggered once per second, stacking up to 3 times. When the wielder's Concerto Energy is consumed, gain 40% Basic DMG Bonus for 10. This effect can be triggered once per second and ends when the wielder is switched off the field."
+    },
+    "about": "A camellia bud silently unfurls. As promised, she holds this infinite world in bloom in her palms, where fine crimson vines twine around her fingertips. The dull ache, like sand scratching against the heart, is proof of your fateful encounter.",
+    "source": "https://wuthering.gg/weapons/red-spring"
+  },
+  {
+    "id": "tragicomedy",
+    "slug": "tragicomedy",
+    "name": "Tragicomedy",
+    "rarity": 5,
+    "type": "Pistols",
+    "image": "/assets/weapons/tragicomedy.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21040018_UI.png",
+    "stats": {
+      "atk": "374.68",
+      "secondary": "Crit. Rate 18.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Cadence Leaf",
+        "quantity": "6"
+      },
+      {
+        "name": "HF Howler Core",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Fool's Warble",
+      "description": "Increases ATK by 12%. Every time Basic Attack or Intro Skill is cast, Heavy Attack DMG Bonus increases by 48% for 3 s."
+    },
+    "about": "The joys and sorrows of life dance in an endless circle; Pain and tears shift in an instant into a carnival.",
+    "source": "https://wuthering.gg/weapons/tragicomedy"
+  },
+  {
+    "id": "the-last-dance",
+    "slug": "the-last-dance",
+    "name": "The Last Dance",
+    "rarity": 5,
+    "type": "Pistols",
+    "image": "/assets/weapons/the-last-dance.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21030017_UI.png",
+    "stats": {
+      "atk": "318.88",
+      "secondary": "Crit. DMG 53.33%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Refined Phlogiston",
+        "quantity": "6"
+      },
+      {
+        "name": "Improved Ring",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Silent Eulogy",
+      "description": "Increases ATK by 12%. Every time Intro Skill or Resonance Liberation is cast, Resonance Skill DMG Bonus increases by 48% for 5 s."
+    },
+    "about": "The radiant crystals, ever shattering and reshaping, beckon you into a treacherous dance, a gamble where life is the wager. Cortado, cortado... relentlessly draw each other in until all we can hear are our quivers. When the crimson finale arrives, remember, death comes for all.",
+    "source": "https://wuthering.gg/weapons/the-last-dance"
+  },
+  {
+    "id": "unflickering-valor",
+    "slug": "unflickering-valor",
+    "name": "Unflickering Valor",
+    "rarity": 5,
+    "type": "Broadblade",
+    "image": "/assets/weapons/unflickering-valor.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21020025_UI.png",
+    "stats": {
+      "atk": "263.07",
+      "secondary": "Energy Regen 57.07%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Polarized Metallic Drip",
+        "quantity": "6"
+      },
+      {
+        "name": "HF Howler Core",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Laughter Prevails",
+      "description": "Increase Crit. Rate by 8%. Casting Resonance Liberation gives 24% Basic Attack DMG Bonus for 10 s. Dealing Basic Attack DMG gives 24% Basic Attack DMG Bonus for 4 s."
+    },
+    "about": "Blistering winds and crashing waves, the sea devours all. Only a lonely boat lamp stands alight! Onwards! Towards the edge of the world you shall sail!",
+    "source": "https://wuthering.gg/weapons/unflickering-valor"
+  },
+  {
+    "id": "luminous-hymn",
+    "slug": "luminous-hymn",
+    "name": "Luminous Hymn",
+    "rarity": 5,
+    "type": "Rectifier",
+    "image": "/assets/weapons/luminous-hymn.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21050029_UI.png",
+    "stats": {
+      "atk": "318.88",
+      "secondary": "Crit. Rate 26.67%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Andante Helix",
+        "quantity": "6"
+      },
+      {
+        "name": "Improved Ring",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Homebuilder's Anthem",
+      "description": "Increase ATK by 12%. Dealing DMG to targets with Spectro Frazzle grants the wielder 14% Basic Attack DMG Bonus and 14% Heavy Attack DMG Bonus, stacking up to 3 for 6 s. Casting Outro Skill Amplifies the Spectro Frazzle DMG on targets around the active Resonator by 30% for 30 s. Effects of the same name cannot be stacked."
+    },
+    "about": "\"The Sentinel's grace, how sweet thou art. Our home was lost, but found at last. With twigs between my beaks, I brave the waves. Bound by love, we're crowned with holy light.\"",
+    "source": "https://wuthering.gg/weapons/luminous-hymn"
+  },
+  {
+    "id": "whispers-of-sirens",
+    "slug": "whispers-of-sirens",
+    "name": "Whispers of Sirens",
+    "rarity": 5,
+    "type": "Rectifier",
+    "image": "/assets/weapons/whispers-of-sirens.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21050030_UI.png",
+    "stats": {
+      "atk": "318.88",
+      "secondary": "Crit. DMG 53.33%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Andante Helix",
+        "quantity": "6"
+      },
+      {
+        "name": "Improved Ring",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "From the Deep",
+      "description": "Increases ATK by 12%. Casting Echo Skill within 10 s after casting Intro Skill or Basic Attacks grants 1 of Gentle Dream. Echoes with the same name can only trigger this effect once, stacking up to 2 times, lasting for 10 s. When reaching 2 stacks, casting Echo Skill no longer resets the duration of this effect. This effect activates up to once per 10s. Switching to another Resonator ends this effect early. With 1 : Grants 40% Basic Attack DMG Bonus. With 2 : Ignores 12% of the target's Havoc RES."
+    },
+    "about": "From the sea, some see stars, some catch the moon, and some hear countless whispers and murmurs. Those murmurs seep into her venom, flowing through every winding river. In the end, the murmurs envelope, like the bell of a jellyfish, like the sea.",
+    "source": "https://wuthering.gg/weapons/whispers-of-sirens"
+  },
+  {
+    "id": "bloodpact-s-pledge",
+    "slug": "bloodpact-s-pledge",
+    "name": "Bloodpact's Pledge",
+    "rarity": 5,
+    "type": "Broadblade",
+    "image": "/assets/weapons/bloodpact-s-pledge.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21020026_UI.png",
+    "stats": {
+      "atk": "374.68",
+      "secondary": "Energy Regen 28.80%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Polarized Metallic Drip",
+        "quantity": "6"
+      },
+      {
+        "name": "HF Howler Core",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Harmonious Vibrancy",
+      "description": "Providing Healing increases Resonance Skill DMG by 10% for 6 s. When Rover: Aero casts Resonance Skill Unbound Flow, Aero DMG dealt by nearby Resonators on the field is Amplified by 10% for 30 s."
+    },
+    "about": "This weapon is a testament to the unbreakable blood pact: One shall never betray, never surrender, and fight until the last drop of blood is shed.",
+    "source": "https://wuthering.gg/weapons/bloodpacts-pledge"
+  },
+  {
+    "id": "blazing-justice",
+    "slug": "blazing-justice",
+    "name": "Blazing Justice",
+    "rarity": 5,
+    "type": "Broadblade",
+    "image": "/assets/weapons/blazing-justice.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21040019_UI.png",
+    "stats": {
+      "atk": "374.68",
+      "secondary": "Crit. DMG 36.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Cadence Leaf",
+        "quantity": "6"
+      },
+      {
+        "name": "HF Howler Core",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Darkness Breaker",
+      "description": "Increases ATK by 12%. Casting Basic Attack grants the following effects: Dealing damage ignores 8% of the target's DEF and Amplifies Spectro Frazzle DMG dealt by 50% for 6 s. Retriggering the effect resets its duration."
+    },
+    "about": "It heralds justice, precise and inexorable as a clock's toll. All sins are cleansed in flame, dissipating like night beneath the dawn's gaze.",
+    "source": "https://wuthering.gg/weapons/blazing-justice"
+  },
+  {
+    "id": "woodland-aria",
+    "slug": "woodland-aria",
+    "name": "Woodland Aria",
+    "rarity": 5,
+    "type": "Sword",
+    "image": "/assets/weapons/woodland-aria.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21030026_UI.png",
+    "stats": {
+      "atk": "318.88",
+      "secondary": "Crit. Rate 26.67%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Refined Phlogiston",
+        "quantity": "6"
+      },
+      {
+        "name": "Improved Ring",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Lingering Summer Tune",
+      "description": "ATK is increased by 12%. Inflicting Aero Erosion on the target gives 24% Aero DMG Bonus for 10 s. Hitting targets with Aero Erosion reduces their Aero RES by 10% for 20 s. Effects of the same name cannot be stacked."
+    },
+    "about": "All things exist within the lines of poetry. Every sound has its meters and rhymes. The forest's melodies ascend in spirals toward the moon's silvered grace, harmonized by the nightingales' chorus. When the final note falls and vanishes into the silent earth, a flawless chord echoes endlessly in the depths of this boundless realm.",
+    "source": "https://wuthering.gg/weapons/woodland-aria"
+  },
+  {
+    "id": "defier-s-thorn",
+    "slug": "defier-s-thorn",
+    "name": "Defier's Thorn",
+    "rarity": 5,
+    "type": "Sword",
+    "image": "/assets/weapons/defier-s-thorn.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21020056_UI.png",
+    "stats": {
+      "atk": "263.07",
+      "secondary": "HP 53.50%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Polarized Metallic Drip",
+        "quantity": "6"
+      },
+      {
+        "name": "HF Howler Core",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "A Free Knight's Tarantella",
+      "description": "Max HP is increased by 12%. 15 s after casting Intro Skill or Basic Attacks, ignore 8% of the target's DEF when dealing damage. If the target has at least 1 stack of Aero Erosion, the DMG taken by the target is Amplified by 20%."
+    },
+    "about": "The surging tides force the crown of thorns upon the knight, out of which the knight forges this sword. Unburdened by the crown, the knight waded through the roaring waves unwaveringly.",
+    "source": "https://wuthering.gg/weapons/defiers-thorn"
+  },
+  {
+    "id": "wildfire-mark",
+    "slug": "wildfire-mark",
+    "name": "Wildfire Mark",
+    "rarity": 5,
+    "type": "Pistols",
+    "image": "/assets/weapons/wildfire-mark.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21010036_UI.png",
+    "stats": {
+      "atk": "374.68",
+      "secondary": "Crit. DMG 36.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Waveworn Residue 235",
+        "quantity": "6"
+      },
+      {
+        "name": "HF Whisperin Core",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Blazing Starfire",
+      "description": "Increases ATK by 12%. Performing Intro Skill or Resonance Liberation increases Resonance Liberation DMG by 24% for 6 s. Dealing Heavy Attack DMG extends this effect by 4 s, up to 1 time. Each successful extension gives 24% Fusion DMG Bonus to all Resonators in the team for 30 s. Effects of the same name cannot be stacked."
+    },
+    "about": "The young wolf races through the wilds, shedding every shadow that once held her back. The lone wolf strides into the arena, cutting down each obstacle in her path. She seizes victory. She claims glory. She raises everything she has high above. She belongs to the arena, but even more, she belongs to herself.",
+    "source": "https://wuthering.gg/weapons/wildfire-mark"
+  },
+  {
+    "id": "lethean-elegy",
+    "slug": "lethean-elegy",
+    "name": "Lethean Elegy",
+    "rarity": 5,
+    "type": "Rectifier",
+    "image": "/assets/weapons/lethean-elegy.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21050066_UI.png",
+    "stats": {
+      "atk": "374.68",
+      "secondary": "Crit. Rate 18.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Andante Helix",
+        "quantity": "6"
+      },
+      {
+        "name": "Improved Ring",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Underworld Requiem",
+      "description": "ATK is increased by 12%. Within 12 s after dealing Echo Skill DMG, gain 32% Resonance Skill DMG Bonus and 32% Echo Skill DMG Amplification, and ignore 8% of the target's DEF when dealing damage."
+    },
+    "about": "I am not there. I do not die. I shall be death's companion—with euphoric delights I drown my fear, with the coming days I trade for the past.",
+    "source": "https://wuthering.gg/weapons/lethean-elegy"
+  },
+  {
+    "id": "moongazer-s-sigil",
+    "slug": "moongazer-s-sigil",
+    "name": "Moongazer's Sigil",
+    "rarity": 5,
+    "type": "Rectifier",
+    "image": "/assets/weapons/moongazer-s-sigil.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21040046_UI.png",
+    "stats": {
+      "atk": "318.88",
+      "secondary": "Crit. Rate 26.67%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Cadence Leaf",
+        "quantity": "6"
+      },
+      {
+        "name": "HF Howler Core",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Plenilune Radiance",
+      "description": "Increases ATK by 12%. Casting Intro Skill or Resonance Liberation increases Resonance Liberation DMG by 20% for 15 s. Obtaining Shield allows Resonance Liberation DMG to ignore 7.2% of the target's DEF for 7 s, stacking up to 5 times. This effect is triggered once every 0.5 s. Upon casting Intro Skill, this effect reaches max stacks immediately, lasting for 3 s."
+    },
+    "about": "By what means do all things endure? By light and heat, by matter and word, by the mechanics of converging chances, by the soft dissolution into silence, by a moment that mimics the eternal... All things rise and fall in endless rhythm, each bearing its meaning. As for hers, it lies here within her grasp.",
+    "source": "https://wuthering.gg/weapons/moongazers-sigil"
+  },
+  {
+    "id": "thunderflare-dominion",
+    "slug": "thunderflare-dominion",
+    "name": "Thunderflare Dominion",
+    "rarity": 5,
+    "type": "Broadblade",
+    "image": "/assets/weapons/thunderflare-dominion.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21010046_UI.png",
+    "stats": {
+      "atk": "430.48",
+      "secondary": "Crit. Rate 9.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Waveworn Residue 235",
+        "quantity": "6"
+      },
+      {
+        "name": "HF Whisperin Core",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Thunderblaze Eminence",
+      "description": "Increases ATK by 12%. Casting Intro Skill or Resonance Skill increases Heavy Attack DMG by 20% for 15 s. Obtaining Shield allows Heavy Attack DMG to ignore 7.2% of the target's DEF for 7 s, stacking up to 5 times. This effect is triggered once every 0.5s"
+    },
+    "about": "Thunder shall purge her pain and weakness. From the crucible of blood and sand, the Sun rises. Not dimmed by dust, but ablaze in her full radiance.",
+    "source": "https://wuthering.gg/weapons/thunderflare-dominion"
+  },
+  {
+    "id": "lux-umbra",
+    "slug": "lux-umbra",
+    "name": "Lux & Umbra",
+    "rarity": 5,
+    "type": "Sword",
+    "image": "/assets/weapons/lux-umbra.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21030036_UI.png",
+    "stats": {
+      "atk": "374.68",
+      "secondary": "Crit. DMG 36.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Refined Phlogiston",
+        "quantity": "6"
+      },
+      {
+        "name": "Improved Ring",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "To Fire She Returns",
+      "description": "ATK is increased by 12%. Upon dealing Echo Skill DMG, gain 24% Heavy Attack DMG Amplification for 6 s. Upon dealing Heavy Attack DMG, gain 24% Echo Skill DMG Amplification for 6 s. DMG Amplification on each attack is capped at 24%. While both effects are active, dealing damage ignores 8% of the target's DEF."
+    },
+    "about": "From darkness she seizes power, layering sins upon herself. To hunt. To kill. To deliver a relentless and fatal blow to all evil. From the light she falls, with her vows etched in her mind. For the deceased. For the living. For her pistols' true targets.",
+    "source": "https://wuthering.gg/weapons/lux-&-umbra"
+  },
+  {
+    "id": "emerald-sentence",
+    "slug": "emerald-sentence",
+    "name": "Emerald Sentence",
+    "rarity": 5,
+    "type": "Sword",
+    "image": "/assets/weapons/emerald-sentence.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21020066_UI.png",
+    "stats": {
+      "atk": "374.68",
+      "secondary": "Crit. Rate 18.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Polarized Metallic Drip",
+        "quantity": "6"
+      },
+      {
+        "name": "HF Howler Core",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "When A Heart Settles",
+      "description": "ATK is increased by 12%. Casting Echo Skill within 10 s after casting Intro Skill or Basic Attack grants 1 stack of Bamboo Cleaver, which grants 30 % Heavy Attack DMG Bonus to the wielder. This effect can be triggered by Echoes of the same name once only, stacking up to 2 times, lasting for 12 s. Casting Echo Skill at max stacks does not reset the duration. This effect can be triggered once every 10 s and ends early if the wielder is switched off the field. Casting Intro Skill grants 20% Echo Skill DMG Bonus to all Resonators in the team for 30 s. Effects of the same name cannot be stacked."
+    },
+    "about": "Bamboo, hollow yet full; People, whole yet seldom true. Bamboo speaks without deceit, acts without conceit, seeks no vanity. Few ever measure up thus.",
+    "source": "https://wuthering.gg/weapons/emerald-sentence"
+  },
+  {
+    "id": "kumokiri",
+    "slug": "kumokiri",
+    "name": "Kumokiri",
+    "rarity": 5,
+    "type": "Sword",
+    "image": "/assets/weapons/kumokiri.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21010056_UI.png",
+    "stats": {
+      "atk": "318.88",
+      "secondary": "Crit. Rate 26.67%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Waveworn Residue 235",
+        "quantity": "6"
+      },
+      {
+        "name": "HF Whisperin Core",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Thread of Fate",
+      "description": "ATK is increased by 12%. When the wielder casts Intro Skill or inflicts Negative Statuses, they gain 8% Resonance Liberation DMG Bonus, stacking up to 3 times for 15 s. At max stacks, when Resonators in the team inflict Negative Statuses, they gain 24% All-Attribute DMG Bonus for 15 s. Effects of the same name cannot be stacked."
+    },
+    "about": "A crimson thread emerges in the void, as if binding the structures of all things onto a single thread. At her fingertips, the endless season is drawn taut, snipped, and rewoven, until the scattered path at last converges once more upon this timeline.",
+    "source": "https://wuthering.gg/weapons/kumokiri"
+  },
+  {
+    "id": "spectrum-blaster",
+    "slug": "spectrum-blaster",
+    "name": "Spectrum Blaster",
+    "rarity": 5,
+    "type": "Pistols",
+    "image": "/assets/weapons/spectrum-blaster.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21030046_UI.png",
+    "stats": {
+      "atk": "374.68",
+      "secondary": "Crit. Rate 18.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Remnant Combustor",
+        "quantity": "6"
+      },
+      {
+        "name": "Chipped Exoswarm Pendant",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Attendance Exemption Protocol",
+      "description": "Increases ATK by 12%. Casting Intro Skill or dealing Basic Attack DMG to targets increases the wielder's Basic Attack DMG Bonus by 36% for 4 s. Each time the wielder inflicts Tune Rupture - Shifting or Tune Strain - Shifting during Basic Attacks, all DMG dealt by Resonators in the team is increased by 8% for 30 s, up to 3 stacks. Effects of the same name cannot be stacked."
+    },
+    "about": "Prismatic light dances at her fingertips, arcs of color carving radiant trails. Every rushing hue converges upon her aim, and at last, she reaches a sky where nothing lies beyond her sight.",
+    "source": "https://wuthering.gg/weapons/spectrum-blaster"
+  },
+  {
+    "id": "starfield-calibrator",
+    "slug": "starfield-calibrator",
+    "name": "Starfield Calibrator",
+    "rarity": 5,
+    "type": "Rectifier",
+    "image": "/assets/weapons/starfield-calibrator.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21010066_UI.png",
+    "stats": {
+      "atk": "263.07",
+      "secondary": "Energy Regen 57.07%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "HF Carved Crystal",
+        "quantity": "6"
+      },
+      {
+        "name": "Chipped Exoswarm Pendant",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Definite Solution",
+      "description": "Increases DEF by 16%. Casting Resonance Skill restores 8 points of Concerto Energy. This effect can be triggered 1 every 20 s. When the wielder heals Resonators, increases Crit. DMG of all nearby Resonators in the team by 20% for 4 s. Effects of the same name cannot be stacked."
+    },
+    "about": "Every pattern can be observed. Every phenomenon can be understood. The ideal may lie light-years away, yet the path toward it rests within her own hands.",
+    "source": "https://wuthering.gg/weapons/starfield-calibrator"
+  },
+  {
+    "id": "radiance-cleaver",
+    "slug": "radiance-cleaver",
+    "name": "Radiance Cleaver",
+    "rarity": 5,
+    "type": "Broadblade",
+    "image": "/assets/weapons/radiance-cleaver.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon_21010045_UI.png",
+    "stats": {
+      "atk": "374.68",
+      "secondary": "Crit. DMG 36.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "HF Carved Crystal",
+        "quantity": "6"
+      },
+      {
+        "name": "Chipped Exoswarm Pendant",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Edge Breaker",
+      "description": "Increases ATK by 12%. Dealing damage to targets under Tune Strain - Interfered grants 24% Resonance Liberation Bonus for 3 s. Retriggering the effect resets its duration."
+    },
+    "about": "Spacetrek Collective \"Synth Armament\" Series Model: SCSA-LHRi-BB325042 Forged from compound technology that fuses Exostrider biomorphic components with Tacetite, this weapon offers two core features: frequency auto-adaptation and user binding. Its power scales directly with the wielder's Forte, growing sharper through dedicated Forte training. The light patterns along the blade shift in response to the wielder's frequency fluctuations. It crystallizes reason into a concentrated force—a tool to cut through obstacles as well as a measure for charting the unknown. Ideal for the edge breakers who carve their path forward with unwavering resolve.",
+    "source": "https://wuthering.gg/weapons/radiance-cleaver"
+  },
+  {
+    "id": "laser-shearer",
+    "slug": "laser-shearer",
+    "name": "Laser Shearer",
+    "rarity": 5,
+    "type": "Gauntlet",
+    "image": "/assets/weapons/laser-shearer.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon_21020045_UI.png",
+    "stats": {
+      "atk": "374.68",
+      "secondary": "Energy Regen 28.80%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Polywing Polarizer",
+        "quantity": "6"
+      },
+      {
+        "name": "HF Mech Core",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Signal Catcher",
+      "description": "Increases ATK by 12%. Dealing damage to targets under Tune Strain - Interfered grants 24% Resonance Skill Bonus for 3 s. Retriggering the effect resets its duration."
+    },
+    "about": "Spacetrek Collective \"Synth Armament\" Series Model: SCSA-LHRi-SWD201052 Forged from compound technology that fuses Exostrider biomorphic components with Tacetite, this weapon offers two core features: frequency auto-adaptation and user binding. Its power scales directly with the wielder's Forte, growing sharper through dedicated Forte training. The light patterns along the blade shift in response to the wielder's frequency fluctuations. Each strike expresses a refined intuition, a \"razor\" that cuts away unnecessary possibilities. Ideal for the signal catchers who discern the greater picture from the smallest details and make sound judgments.",
+    "source": "https://wuthering.gg/weapons/laser-shearer"
+  },
+  {
+    "id": "phasic-homogenizer",
+    "slug": "phasic-homogenizer",
+    "name": "Phasic Homogenizer",
+    "rarity": 5,
+    "type": "Rectifier",
+    "image": "/assets/weapons/phasic-homogenizer.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon_21030045_UI.png",
+    "stats": {
+      "atk": "374.68",
+      "secondary": "Crit. DMG 36.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Remnant Combustor",
+        "quantity": "6"
+      },
+      {
+        "name": "Chipped Exoswarm Pendant",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Insight Bearer",
+      "description": "Increases ATK by 12%. After a Resonator in the team casts a Tune Break skill, it grants 20% All-Attribute DMG Bonus to the wielder for 14 s."
+    },
+    "about": "Spacetrek Collective \"Synth Armament\" Series Model: SCSA-LHRi-PSTL325052 Forged from compound technology that fuses Exostrider biomorphic components with Tacetite, this weapon offers two core features: frequency auto-adaptation and user binding. Its power scales directly with the wielder's Forte, growing sharper through dedicated Forte training. Projectile and rifling are spectrally tuned to unleash a potent frequency disturbance on impact, exposing and shattering a target's weak points. It serves as both a benchmark of precision and a weapon that pierces with unwavering focus. Ideal for insight bearers who act with deliberate caution and perceive what others overlook.",
+    "source": "https://wuthering.gg/weapons/phasic-homogenizer"
+  },
+  {
+    "id": "pulsation-bracer",
+    "slug": "pulsation-bracer",
+    "name": "Pulsation Bracer",
+    "rarity": 5,
+    "type": "Gauntlet",
+    "image": "/assets/weapons/pulsation-bracer.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon_21040045_UI.png",
+    "stats": {
+      "atk": "374.68",
+      "secondary": "Crit. Rate 18.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "HF Waveworn Shard",
+        "quantity": "6"
+      },
+      {
+        "name": "HF Mech Core",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Barrier Breacher",
+      "description": "Increases ATK by 12%. Dealing damage to targets under Tune Strain - Interfered grants 6% Basic Attack DMG Bonus for 3 s, stacking up to 4 times. This effect can be triggered 1 every 0.5 s. Retriggering the effect resets its duration."
+    },
+    "about": "Spacetrek Collective \"Synth Armament\" Series Model: SCSA-LHRi-GNTL522152 Forged from compound technology that fuses Exostrider biomorphic components with Tacetite, this weapon offers two core features: frequency auto-adaptation and user binding. Its power scales directly with the wielder's Forte, growing sharper through dedicated Forte training. The armor's spectrum shifts as it restores kinetic energy. The Pulsation Bracer predicts the wearer's stance to amplify the stored reactive torque and release it in a single, instantaneous surge—a decisive force delivered at the critical moment. Ideal for the barrier breachers who advance with steady resolve and stand unshaken under pressure.",
+    "source": "https://wuthering.gg/weapons/pulsation-bracer"
+  },
+  {
+    "id": "boson-astrolabe",
+    "slug": "boson-astrolabe",
+    "name": "Boson Astrolabe",
+    "rarity": 5,
+    "type": "Rectifier",
+    "image": "/assets/weapons/boson-astrolabe.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon_21050045_UI.png",
+    "stats": {
+      "atk": "334.82",
+      "secondary": "Energy Regen 28.80%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Solidified String",
+        "quantity": "6"
+      },
+      {
+        "name": "HF Exoswarm Core",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Path Observer",
+      "description": "Increases ATK by 12%. After a Resonator in the team casts a Tune Break skill, it grants a 12% ATK increase and 12% Basic Attack DMG Bonus to the wielder for 14 s."
+    },
+    "about": "Spacetrek Collective \"Synth Armament\" Series Model: SCSA-LHRi-RCTF325062 Forged from compound technology that fuses Exostrider biomorphic components with Tacetite, this weapon offers two core features: frequency auto-adaptation and user binding. Its power scales directly with the wielder's Forte, growing sharper through dedicated Forte training. Composed of a spectral ring-lens and layered glass plates, the device captures even the faintest frequency shifts. Like a guiding star that leads the seekers through a sea of tangled thoughts, it maps possibilities before they take shape. Ideal for the path observers who perceive the world a step ahead.",
+    "source": "https://wuthering.gg/weapons/boson-astrolabe"
+  },
+  {
+    "id": "everbright-polestar",
+    "slug": "everbright-polestar",
+    "name": "Everbright Polestar",
+    "rarity": 5,
+    "type": "Rectifier",
+    "image": "/assets/weapons/everbright-polestar.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21020076_UI.png",
+    "stats": {
+      "atk": "374.68",
+      "secondary": "Crit. Rate 18.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Polywing Polarizer",
+        "quantity": "6"
+      },
+      {
+        "name": "HF Mech Core",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Starchaser",
+      "description": "Increases All-Attribute DMG Bonus by 12%. When inflicting Tune Rupture - Shifting or Fusion Burst, the wielder's Resonance Liberation DMG ignores 32% DEF and 10% Fusion RES on targets for 8 s."
+    },
+    "about": "As you drift across the hushed sea of stars, stardust scatters beside you as time crumbles in your wake. All that remains is the unyielding loneliness, warped, diluted, and remade into the plumes of your wings. The universe sends you on a tribulation of silence, yet you travel on, repaying in radiance.",
+    "source": "https://wuthering.gg/weapons/everbright-polestar"
+  },
+  {
+    "id": "daybreaker-s-spine",
+    "slug": "daybreaker-s-spine",
+    "name": "Daybreaker's Spine",
+    "rarity": 5,
+    "type": "Sword",
+    "image": "/assets/weapons/daybreaker-s-spine.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon_21040056_UI.png",
+    "stats": {
+      "atk": "374.68",
+      "secondary": "Crit. Rate 18.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "HF Waveworn Shard",
+        "quantity": "6"
+      },
+      {
+        "name": "HF Mech Core",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Suturing Dayline",
+      "description": "Increases ATK by 12%. After dealing Basic Attack DMG, the wielder gains 20% Spectro DMG Bonus for 4 s. Each time after the wielder inflicts Tune Strain - Shifting on the target, they gain 20% Basic Attack DMG Amplification and their Basic Attack DMG ignores 10% of the target's DEF for 6 s."
+    },
+    "about": "Those are not ridges of the mountains, but the spine of the earth, carrying the night. They protrude from the abdomen of darkness. From the incision spills the light of new life. Your shadow was nailed to the dying night. With the breaking dawn, your flesh shall rise. Let it knock open every door of denial.",
+    "source": "https://wuthering.gg/weapons/daybreakers-spine"
+  },
+  {
+    "id": "solsworn-ciphers",
+    "slug": "solsworn-ciphers",
+    "name": "Solsworn Ciphers",
+    "rarity": 5,
+    "type": "Pistols",
+    "image": "/assets/weapons/solsworn-ciphers.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21040066_UI.png",
+    "stats": {
+      "atk": "374.68",
+      "secondary": "Crit. DMG 36.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "HF Waveworn Shard",
+        "quantity": "6"
+      },
+      {
+        "name": "HF Mech Core",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Sunward",
+      "description": "Increases ATK by 12%. Casting Intro Skill or Echo Skill grants 32% Echo Skill DMG Amplification for 15 s. When dealing Echo Skill DMG, Aero DMG ignores 10% of the target's DEF for 6 s."
+    },
+    "about": "Sunlight gathers. The answer is made plain. What must be done awaits. The Rein is in your hand. Step forward, toward the sunlit end.",
+    "source": "https://wuthering.gg/weapons/solsworn-ciphers"
+  },
+  {
+    "id": "forged-dwarf-star",
+    "slug": "forged-dwarf-star",
+    "name": "Forged Dwarf Star",
+    "rarity": 5,
+    "type": "Broadblade",
+    "image": "/assets/weapons/forged-dwarf-star.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21050076_UI.png",
+    "stats": {
+      "atk": "318.88",
+      "secondary": "Crit. Rate 26.67%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Solidified String",
+        "quantity": "6"
+      },
+      {
+        "name": "HF Exoswarm Core",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Dissolution",
+      "description": "Increases ATK by 12%. After the wielder inflicts Fusion Burst or Tune Strain - Shifting on the target, their Resonance Liberation DMG Bonus is increased by 36% for 5 s. While this effect lasts, after Resonators in the team inflict Fusion Burst or Tune Strain - Shifting, their ATK is increased by 24% for 15 s. Effects of the same name cannot be stacked."
+    },
+    "about": "Dream dissolves like foam, leaving only a silent white dwarf. Yet the light that once swept the cosmos remains. She waits in quiescence until her borrowed light finds its way back to the main sequence star.",
+    "source": "https://wuthering.gg/weapons/forged-dwarf-star"
+  },
+  {
+    "id": "frostburn",
+    "slug": "frostburn",
+    "name": "Frostburn",
+    "rarity": 5,
+    "type": "Sword",
+    "image": "/assets/weapons/frostburn.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21020086_UI.png",
+    "stats": {
+      "atk": "374.68",
+      "secondary": "Crit. Rate 18.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Polywing Polarizer",
+        "quantity": "6"
+      },
+      {
+        "name": "HF Mech Core",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Self No More",
+      "description": "ATK is increased by 12%. After the wielder applies Glacio Chafe, Glacio DMG is Amplified by 28%, and Resonance Liberation DMG ignores 10% of the target's DEF. If the wielder is the active Resonator in the team, Glacio Chafe DMG dealt to all targets within a certain range is Amplified by 20% for 6 s. This effect can be triggered up to 1 every 0.1 s. Only the strongest effect of the same name applies."
+    },
+    "about": "How keen a blade it takes to impale this unrelenting night? She presses ever forward for the answer, those unbound wishes roaring in her veins.",
+    "source": "https://wuthering.gg/weapons/frostburn"
+  },
+  {
+    "id": "spectral-trigger",
+    "slug": "spectral-trigger",
+    "name": "Spectral Trigger",
+    "rarity": 5,
+    "type": "Pistols",
+    "image": "/assets/weapons/spectral-trigger.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21030056_UI.png",
+    "stats": {
+      "atk": "374.68",
+      "secondary": "Crit. DMG 36.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Remnant Combustor",
+        "quantity": "6"
+      },
+      {
+        "name": "Chipped Exoswarm Pendant",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Sunken Dream",
+      "description": "Increases ATK by 12%. Casting Resonance Skill grants 20% Spectro DMG Bonus to the wielder for 14 s, stacking up to 2 times. Inflicting Hack - Shifting grants 30% Heavy Attack DMG Amplification to the wielder for 14 s, during which Heavy Attack DMG ignores 10 % of the target's DEF."
+    },
+    "about": "A neon glow gilds this cage of memory, same as always. I wander along old city streets, spilling unspoken words to shadows long gone. I wanna stay lost here, but the dream is fraying. I must wake up.",
+    "source": "https://wuthering.gg/weapons/spectral-trigger"
+  },
+  {
+    "id": "skull-thrasher",
+    "slug": "skull-thrasher",
+    "name": "Skull Thrasher",
+    "rarity": 5,
+    "type": "Gauntlet",
+    "image": "/assets/weapons/skull-thrasher.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21030066_UI.png",
+    "stats": {
+      "atk": "318.88",
+      "secondary": "Crit. DMG 53.33%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Remnant Combustor",
+        "quantity": "6"
+      },
+      {
+        "name": "Chipped Exoswarm Pendant",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Wakeful Loner",
+      "description": "Increases ATK by 12%. Casting Intro Skill grants 24% Basic Attack DMG Bonus to the wielder for 14 s. Inflicting Hack - Shifting grants 12% Basic Attack DMG Bonus to the wielder for 14 s, and increases the ATK of Resonators in the team by 24% for 30 s. Effects of the same name do not stack."
+    },
+    "about": "Because death is a reality that cannot be undone, there's no reason to hesitate. She pulls the trigger, shattering this haunting reverie.",
+    "source": "https://wuthering.gg/weapons/skull-thrasher"
+  },
+  {
+    "id": "freeze-frame",
+    "slug": "freeze-frame",
+    "name": "Freeze Frame",
+    "rarity": 5,
+    "type": "Pistols",
+    "image": "/assets/weapons/freeze-frame.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21050086_UI.png",
+    "stats": {
+      "atk": "374.68",
+      "secondary": "Crit. Rate 18.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Solidified String",
+        "quantity": "6"
+      },
+      {
+        "name": "HF Exoswarm Core",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Light's Offering",
+      "description": "Increases ATK by 12%. After inflicting Glacio Chafe on the target, the wielder gains 30% Glacio DMG Bonus for 12 s, and all Resonators in the team gain 24% ATK increase for 30 s. Effects of the same name cannot be stacked."
+    },
+    "about": "I remember the sunset spilling down, birds and insects threading their small songs through the greenhouse. I remember the quiet nights, my lone steps echoing the crescent moon's curve. I am my own freeze frame. I am my own afterimage.",
+    "source": "https://wuthering.gg/weapons/freeze-frame"
+  },
+  {
+    "id": "azure-oath",
+    "slug": "azure-oath",
+    "name": "Azure Oath",
+    "rarity": 5,
+    "type": "Sword",
+    "image": "/assets/weapons/azure-oath.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21020096_UI.png",
+    "stats": {
+      "atk": "374.68",
+      "secondary": "Crit. Rate 18.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Polywing Polarizer",
+        "quantity": "6"
+      },
+      {
+        "name": "HF Mech Core",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Unbending",
+      "description": "Grants 12% All-Attribute DMG Bonus. After inflicting Havoc Bane, the wielder gains 36% Heavy Attack DMG Amplification and their Heavy Attack DMG ignores 12% of the target's DEF, lasting for 8 s."
+    },
+    "about": "Forged of flowing wind, sheathed in the azure sky. Once the blade is drawn, all sound falls still. That never-fading azure is her resolve, her vow, and her ideal.",
+    "source": "https://wuthering.gg/weapons/azure-oath"
+  },
+  {
+    "id": "firstlight-s-herald",
+    "slug": "firstlight-s-herald",
+    "name": "Firstlight's Herald",
+    "rarity": 5,
+    "type": "Rectifier",
+    "image": "/assets/weapons/firstlight-s-herald.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21050096_UI.png",
+    "stats": {
+      "atk": "263.07",
+      "secondary": "Energy Regen 57.07%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Solidified String",
+        "quantity": "6"
+      },
+      {
+        "name": "HF Exoswarm Core",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Spring Wreath",
+      "description": "Increases Max HP by 12%. Casting Resonance Liberation restores 8 points of Concerto Energy, triggered once every 20s. Inflicting Glacio Chafe grants Snow Taint for 6s. Applying healing grants Ripples for 6s. If the wielder has done both while on the field, the next Outro Skill grants both effects for 6s. When the wielder has both Snow Taint and Ripples, the ATK of all nearby Resonators in the team is increased by 20%. Effects of the same name do not stack."
+    },
+    "about": "Dawn's glow my paper, morning dew my ink, with brush in hand, a scroll of ceaseless landscapes I paint. So the legend goes: when the divine bird lowers its gaze, the mountains hush and the rivers still. Yet, when it raises its head again to loose a piercing cry, the slumbering sun shall rise from beyond the sea of clouds.",
+    "source": "https://wuthering.gg/weapons/firstlights-herald"
+  },
+  {
+    "id": "thousandfold-deliverance",
+    "slug": "thousandfold-deliverance",
+    "name": "Thousandfold Deliverance",
+    "rarity": 5,
+    "type": "Sword",
+    "image": "/assets/weapons/thousandfold-deliverance.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21010076_UI.png",
+    "stats": {
+      "atk": "263.07",
+      "secondary": "HP 53.50%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "HF Carved Crystal",
+        "quantity": "6"
+      },
+      {
+        "name": "Chipped Exoswarm Pendant",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Hark, Spirits and Stars",
+      "description": "Grants 12% All-Attribute DMG Bonus. Casting Intro Skill or gaining a Shield as the active Resonator grants 1 stack of Nature's Order and 1 stack of Cradle of Life. This effect can be triggered via gaining a Shield once every 0.5s, stacking up to 6, lasting for 7 s. Switching to another Resonator ends both Nature's Order and Cradle of Life immediately. Nature's Order: Crit. DMG is increased by 4%, up to 24%. When Nature's Order reaches 6, the Crit. Rate of Heavy Attack DMG is increased by 12%. Cradle of Life: Casting Heavy Attack consumes up to 2 stacks of Cradle of Life. For every 1 of Cradle of Life consumed, Heavy Attack DMG ignores 15% of the target's DEF, up to 30%. The effect lasts for 2 s."
+    },
+    "about": "Endless stretches the Netherworld; the long night knows no end. Ten thousand souls lie hushed, and all sound fades to silence. When cold, golden rays illuminate the Nether Gate, the sunken dreams of ages past shall at last be brought to light.",
+    "source": "https://wuthering.gg/weapons/thousandfold-deliverance"
+  },
+  {
+    "id": "glint-of-clouds",
+    "slug": "glint-of-clouds",
+    "name": "Glint of Clouds",
+    "rarity": 5,
+    "type": "Sword",
+    "image": "/assets/weapons/glint-of-clouds.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21020106_UI.png",
+    "stats": {
+      "atk": "318.88",
+      "secondary": "Crit. Rate 26.67%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Polywing Polarizer",
+        "quantity": "6"
+      },
+      {
+        "name": "HF Mech Core",
+        "quantity": "6"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "60000"
+      }
+    ],
+    "skill": {
+      "name": "Evil's Scourge",
+      "description": "ATK is increased by 12%. Inflicting Tune Strain - Shifting grants 11.2% Aero DMG Bonus for 2 s, stacking up to 5 times. This effect can be triggered once every 0.5 s. Upon reaching the max stack limit, gain the following effects: - This Aero DMG Bonus effect's duration is extended to 30 s. - Aero DMG ignores 10% of the target's DEF during this effect."
+    },
+    "about": "Wreathed in mist and cloud, still waters blend with the sky in seamless blue. Sparse shadows slant across as a rain of petals falls. May I bear this jade blade into the mortal realm, cleanse a tarnished age, and put the wicked to the sword.",
+    "source": "https://wuthering.gg/weapons/glint-of-clouds"
+  },
+  {
+    "id": "autumntrace",
+    "slug": "autumntrace",
+    "name": "Autumntrace",
+    "rarity": 4,
+    "type": "Broadblade",
+    "image": "/assets/weapons/autumntrace.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21010074_UI.png",
+    "stats": {
+      "atk": "263.07",
+      "secondary": "Crit. Rate 15.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Waveworn Residue 235",
+        "quantity": "5"
+      },
+      {
+        "name": "HF Whisperin Core",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Edge Direction",
+      "description": "Increases ATK by 4% upon dealing Basic Attack DMG or Heavy Attack DMG, stacking up to 5 time(s). This effect lasts for 7 s and can be triggered 1 time(s) every 1 s."
+    },
+    "about": "This Broadblade is a ceremonial weapon used in Huanglong's Magistrate Inauguration Ceremonies. The golden ginkgo leaf pattern symbolizes Huanglong's resilience, thriving in a world that has left it behind.",
+    "source": "https://wuthering.gg/weapons/autumntrace"
+  },
+  {
+    "id": "lumingloss",
+    "slug": "lumingloss",
+    "name": "Lumingloss",
+    "rarity": 4,
+    "type": "Sword",
+    "image": "/assets/weapons/lumingloss.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21020074_UI.png",
+    "stats": {
+      "atk": "247.13",
+      "secondary": "ATK 27.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Polarized Metallic Drip",
+        "quantity": "5"
+      },
+      {
+        "name": "HF Howler Core",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Pale Gale",
+      "description": "When Resonance Skill is cast, increases Basic Attack DMG Bonus and Heavy Attack DMG Bonus by 20%, stacking up to 1 time(s). This effect lasts for 10 s and can be triggered 1 time(s) every 1 s."
+    },
+    "about": "This Sword is a ceremonial weapon used in Huanglong's Magistrate Inauguration Ceremonies. The golden ginkgo leaf pattern symbolizes Huanglong's resilience, thriving in a world that has left it behind.",
+    "source": "https://wuthering.gg/weapons/lumingloss"
+  },
+  {
+    "id": "thunderbolt",
+    "slug": "thunderbolt",
+    "name": "Thunderbolt",
+    "rarity": 4,
+    "type": "Pistols",
+    "image": "/assets/weapons/thunderbolt.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21030074_UI.png",
+    "stats": {
+      "atk": "247.13",
+      "secondary": "ATK 27.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Refined Phlogiston",
+        "quantity": "5"
+      },
+      {
+        "name": "Improved Ring",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Unstoppable",
+      "description": "When hitting a target with Basic Attacks or Heavy Attacks, increases Resonance Skill DMG Bonus by 7%, stacking up to 3 time(s). This effect lasts for 10 s and can be triggered 1 time(s) every 1 s."
+    },
+    "about": "These Pistols are ceremonial weapons used in Huanglong's Magistrate Inauguration Ceremonies. The golden ginkgo leaf pattern symbolizes Huanglong's resilience, thriving in a world that has left it behind.",
+    "source": "https://wuthering.gg/weapons/thunderbolt"
+  },
+  {
+    "id": "stonard",
+    "slug": "stonard",
+    "name": "Stonard",
+    "rarity": 4,
+    "type": "Gauntlet",
+    "image": "/assets/weapons/stonard.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21040074_UI.png",
+    "stats": {
+      "atk": "263.07",
+      "secondary": "Crit. Rate 15.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Cadence Leaf",
+        "quantity": "5"
+      },
+      {
+        "name": "HF Howler Core",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Wallbreaker",
+      "description": "Casting Resonance Skill increases the wielder's Resonance Liberation DMG Bonus by 18%, lasting for 15 s."
+    },
+    "about": "These Gauntlets are ceremonial weapons used in Huanglong's Magistrate Inauguration Ceremonies. The golden ginkgo leaf pattern symbolizes Huanglong's resilience, thriving in a world that has left it behind.",
+    "source": "https://wuthering.gg/weapons/stonard"
+  },
+  {
+    "id": "augment",
+    "slug": "augment",
+    "name": "Augment",
+    "rarity": 4,
+    "type": "Gauntlet",
+    "image": "/assets/weapons/augment.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21050074_UI.png",
+    "stats": {
+      "atk": "263.07",
+      "secondary": "Crit. Rate 15.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Andante Helix",
+        "quantity": "5"
+      },
+      {
+        "name": "Improved Ring",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Forgiving Resilience",
+      "description": "Casting Resonance Liberation increases the wielder's ATK by 15%, lasting for 15 s."
+    },
+    "about": "This Rectifier is a ceremonial weapon used in Huanglong's Magistrate Inauguration Ceremonies. The golden ginkgo leaf pattern symbolizes Huanglong's resilience, thriving in a world that has left it behind.",
+    "source": "https://wuthering.gg/weapons/augment"
+  },
+  {
+    "id": "discord",
+    "slug": "discord",
+    "name": "Discord",
+    "rarity": 4,
+    "type": "Rectifier",
+    "image": "/assets/weapons/discord.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21010024_UI.png",
+    "stats": {
+      "atk": "215.24",
+      "secondary": "Energy Regen 38.40%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Waveworn Residue 235",
+        "quantity": "5"
+      },
+      {
+        "name": "HF Whisperin Core",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Ceaseless Aria",
+      "description": "When Resonance Skill is cast, restores 8 Concerto Energy. This effect can be triggered 1 time(s) every 20 s."
+    },
+    "about": "A descending adagio. This broadblade dominates the battlefield with the power of discordance. The curtain never falls on a masterpiece.",
+    "source": "https://wuthering.gg/weapons/discord"
+  },
+  {
+    "id": "overture",
+    "slug": "overture",
+    "name": "Overture",
+    "rarity": 4,
+    "type": "Pistols",
+    "image": "/assets/weapons/overture.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21020024_UI.png",
+    "stats": {
+      "atk": "215.24",
+      "secondary": "Energy Regen 38.40%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Polarized Metallic Drip",
+        "quantity": "5"
+      },
+      {
+        "name": "HF Howler Core",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Ceaseless Aria",
+      "description": "When Resonance Skill is cast, restores 8 Concerto Energy. This effect can be triggered 1 time(s) every 20 s."
+    },
+    "about": "An ascending crescendo. This enchanting sword effortlessly cuts through anything in its way, like a glorious prelude.",
+    "source": "https://wuthering.gg/weapons/overture"
+  },
+  {
+    "id": "cadenza",
+    "slug": "cadenza",
+    "name": "Cadenza",
+    "rarity": 4,
+    "type": "Pistols",
+    "image": "/assets/weapons/cadenza.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21030024_UI.png",
+    "stats": {
+      "atk": "215.24",
+      "secondary": "Energy Regen 38.40%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Refined Phlogiston",
+        "quantity": "5"
+      },
+      {
+        "name": "Improved Ring",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Ceaseless Aria",
+      "description": "When Resonance Skill is cast, restores 8 Concerto Energy. This effect can be triggered 1 times every 20 s."
+    },
+    "about": "An ascending crescendo. These pistols unleash bullets with the force of thunder, tearing through the heavens like a symphony of destruction.",
+    "source": "https://wuthering.gg/weapons/cadenza"
+  },
+  {
+    "id": "marcato",
+    "slug": "marcato",
+    "name": "Marcato",
+    "rarity": 4,
+    "type": "Gauntlet",
+    "image": "/assets/weapons/marcato.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21040024_UI.png",
+    "stats": {
+      "atk": "215.24",
+      "secondary": "Energy Regen 38.40%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Cadence Leaf",
+        "quantity": "5"
+      },
+      {
+        "name": "HF Howler Core",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Ceaseless Aria",
+      "description": "When Resonance Skill is cast, restores 8 Concerto Energy. This effect can be triggered 1 times every 20 s."
+    },
+    "about": "A descending adagio. These gauntlets pulsate with the power of surging waves, shattering anything in their path like a deadly hymn.",
+    "source": "https://wuthering.gg/weapons/marcato"
+  },
+  {
+    "id": "variation",
+    "slug": "variation",
+    "name": "Variation",
+    "rarity": 4,
+    "type": "Rectifier",
+    "image": "/assets/weapons/variation.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21050024_UI.png",
+    "stats": {
+      "atk": "215.24",
+      "secondary": "Energy Regen 38.40%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Andante Helix",
+        "quantity": "5"
+      },
+      {
+        "name": "Improved Ring",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Ceaseless Aria",
+      "description": "When Resonance Skill is cast, restores 8 Concerto Energy. This effect can be triggered 1 times every 20 s."
+    },
+    "about": "A descending adagio. This rectifier opens up an insightful window into the situation, changing the tune of the intense battle concerto.",
+    "source": "https://wuthering.gg/weapons/variation"
+  },
+  {
+    "id": "broadblade-41",
+    "slug": "broadblade-41",
+    "name": "Broadblade#41",
+    "rarity": 4,
+    "type": "Broadblade",
+    "image": "/assets/weapons/broadblade-41.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21010034_UI.png",
+    "stats": {
+      "atk": "263.07",
+      "secondary": "Energy Regen 24.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Waveworn Residue 235",
+        "quantity": "5"
+      },
+      {
+        "name": "HF Whisperin Core",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Veteran",
+      "description": "When the Resonator's HP is above 80%, increases ATK by 12%. When the Resonator's HP is below 40%, gives 5% healing when dealing Basic Attack DMG or Heavy Attack DMG. This effect can be triggered 1 time(s) every 8 s."
+    },
+    "about": "An improved version of a mass-produced broadblade model developed in Huanglong. With its formidable performance and innovative technologies, this broadblade carries a weight only to be wielded by seasoned warriors.",
+    "source": "https://wuthering.gg/weapons/broadblade-41"
+  },
+  {
+    "id": "sword-18",
+    "slug": "sword-18",
+    "name": "Sword#18",
+    "rarity": 4,
+    "type": "Sword",
+    "image": "/assets/weapons/sword-18.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21020034_UI.png",
+    "stats": {
+      "atk": "247.13",
+      "secondary": "ATK 27.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Polarized Metallic Drip",
+        "quantity": "5"
+      },
+      {
+        "name": "HF Howler Core",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Daybreak",
+      "description": "When the Resonator's HP drops below 40%, increases Heavy Attack DMG Bonus by 18% and gives 5% healing when dealing Heavy Attack DMG. This effect can be triggered 1 time(s) every 8 s."
+    },
+    "about": "An improved version of a mass-produced sword model developed in Huanglong. With its sleek blade and minimalist design, this sword is exclusively crafted for the skilled hands of seasoned warriors.",
+    "source": "https://wuthering.gg/weapons/sword-18"
+  },
+  {
+    "id": "pistols-26",
+    "slug": "pistols-26",
+    "name": "Pistols#26",
+    "rarity": 4,
+    "type": "Pistols",
+    "image": "/assets/weapons/pistols-26.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21030034_UI.png",
+    "stats": {
+      "atk": "247.13",
+      "secondary": "ATK 27.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Refined Phlogiston",
+        "quantity": "5"
+      },
+      {
+        "name": "Improved Ring",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Omniscient",
+      "description": "When the Resonator takes no damage, increases ATK by 6% every 5 s, stacking up to 2 time(s). This effect lasts for 8 s. When the Resonator takes damage, loses 1 stacks and heals 5% of their Max HP."
+    },
+    "about": "The Huaxu Academy has developed practical, high-performance pistols based on previous source energy weapons, showcasing their meticulous research and aiming for excellence.",
+    "source": "https://wuthering.gg/weapons/pistols-26"
+  },
+  {
+    "id": "gauntlets-21d",
+    "slug": "gauntlets-21d",
+    "name": "Gauntlets#21D",
+    "rarity": 4,
+    "type": "Gauntlet",
+    "image": "/assets/weapons/gauntlets-21d.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21040034_UI.png",
+    "stats": {
+      "atk": "247.13",
+      "secondary": "Energy Regen 28.80%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Cadence Leaf",
+        "quantity": "5"
+      },
+      {
+        "name": "HF Howler Core",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Mastermind",
+      "description": "When the Resonator dashes or dodges, increases ATK by 8%. Increases Dodge Counter DMG by 50%, lasting for 8 s. When Dodge Counter is performed, heals 5% of the Resonator's Max HP. This effect can be triggered 1 time(s) every 6 s."
+    },
+    "about": "Huaxu Academy has independently improved and developed the first set of highly practical high-performance Gauntlets based on the previous source energy weapons, representing the care and warmth of the Academy, stable and lasting.",
+    "source": "https://wuthering.gg/weapons/gauntlets-21d"
+  },
+  {
+    "id": "rectifier-25",
+    "slug": "rectifier-25",
+    "name": "Rectifier#25",
+    "rarity": 4,
+    "type": "Rectifier",
+    "image": "/assets/weapons/rectifier-25.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21050034_UI.png",
+    "stats": {
+      "atk": "215.24",
+      "secondary": "Energy Regen 38.40%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Andante Helix",
+        "quantity": "5"
+      },
+      {
+        "name": "Improved Ring",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Dawnbringer",
+      "description": "When Resonance Skill is cast, if the Resonator's HP is below 60%, heals 5% of their Max HP. This effect can be triggered 1 time(s) every 8 s. If the Resonator's HP is above 60%, increases ATK by 12%, lasting for 10 s."
+    },
+    "about": "An improved version of a Rectifier prototype from Huanglong's next-gen weaponry project. This device is characterized by its powerful, purified output and sound that resonates with the decisively strong-willed.",
+    "source": "https://wuthering.gg/weapons/rectifier-25"
+  },
+  {
+    "id": "dauntless-evernight",
+    "slug": "dauntless-evernight",
+    "name": "Dauntless Evernight",
+    "rarity": 4,
+    "type": "Broadblade",
+    "image": "/assets/weapons/dauntless-evernight.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21010044_UI.png",
+    "stats": {
+      "atk": "215.24",
+      "secondary": "DEF 45.60%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Waveworn Residue 235",
+        "quantity": "5"
+      },
+      {
+        "name": "HF Whisperin Core",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Battlebound",
+      "description": "When Intro Skill is cast, increases ATK by 8% and DEF by 15%, lasting for 15 s."
+    },
+    "about": "A weapon designed to commemorate the Midnight Rangers' preparedness. \"Autumn fades in endless nights, ready blades gleam with silent might.\"",
+    "source": "https://wuthering.gg/weapons/dauntless-evernight"
+  },
+  {
+    "id": "commando-of-conviction",
+    "slug": "commando-of-conviction",
+    "name": "Commando of Conviction",
+    "rarity": 4,
+    "type": "Sword",
+    "image": "/assets/weapons/commando-of-conviction.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21020044_UI.png",
+    "stats": {
+      "atk": "263.07",
+      "secondary": "ATK 22.50%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Polarized Metallic Drip",
+        "quantity": "5"
+      },
+      {
+        "name": "HF Howler Core",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Unyielding",
+      "description": "When Intro Skill is cast, increases ATK by 15%, lasting for 15 s."
+    },
+    "about": "A weapon designed to commemorate the Midnight Rangers' courage. \"A thousand echoes carry the war's tale, as spirits unite in resounding gorges of valor.”",
+    "source": "https://wuthering.gg/weapons/commando-of-conviction"
+  },
+  {
+    "id": "undying-flame",
+    "slug": "undying-flame",
+    "name": "Undying Flame",
+    "rarity": 4,
+    "type": "Sword",
+    "image": "/assets/weapons/undying-flame.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21030044_UI.png",
+    "stats": {
+      "atk": "263.07",
+      "secondary": "ATK 22.50%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Refined Phlogiston",
+        "quantity": "5"
+      },
+      {
+        "name": "Improved Ring",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Loyalty",
+      "description": "When Intro Skill is cast, increases Resonance Skill DMG Bonus by 20% for 15 s."
+    },
+    "about": "A weapon designed to commemorate the Midnight Rangers' dedication. \"Let my body ablaze, flames dance to banish all evil's haze.\"",
+    "source": "https://wuthering.gg/weapons/undying-flame"
+  },
+  {
+    "id": "amity-accord",
+    "slug": "amity-accord",
+    "name": "Amity Accord",
+    "rarity": 4,
+    "type": "Broadblade",
+    "image": "/assets/weapons/amity-accord.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21040044_UI.png",
+    "stats": {
+      "atk": "215.24",
+      "secondary": "DEF 45.60%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Cadence Leaf",
+        "quantity": "5"
+      },
+      {
+        "name": "HF Howler Core",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Camaraderie",
+      "description": "When Intro Skill is cast, increases Resonance Liberation DMG Bonus by 20%, lasting for 15 s."
+    },
+    "about": "A weapon designed to commemorate the Midnight Rangers' comradeship. \"Thin garments yield to icy moons, while armor withstands the chill of stars.\"",
+    "source": "https://wuthering.gg/weapons/amity-accord"
+  },
+  {
+    "id": "jinzhou-keeper",
+    "slug": "jinzhou-keeper",
+    "name": "Jinzhou Keeper",
+    "rarity": 4,
+    "type": "Rectifier",
+    "image": "/assets/weapons/jinzhou-keeper.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21050044_UI.png",
+    "stats": {
+      "atk": "247.13",
+      "secondary": "ATK 27.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Andante Helix",
+        "quantity": "5"
+      },
+      {
+        "name": "Improved Ring",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Guardian",
+      "description": "Casting Intro Skill increases the wielder's ATK by 8% and HP by 10%, lasting for 15 s."
+    },
+    "about": "A weapon designed to commemorate the Midnight Rangers' vigilant protection of Jinzhou. \"Cast your gaze towards the north, where the city's silhouette fades, its gates veiled by the tranquil rain.\"",
+    "source": "https://wuthering.gg/weapons/jinzhou-keeper"
+  },
+  {
+    "id": "helios-cleaver",
+    "slug": "helios-cleaver",
+    "name": "Helios Cleaver",
+    "rarity": 4,
+    "type": "Broadblade",
+    "image": "/assets/weapons/helios-cleaver.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21010064_UI.png",
+    "stats": {
+      "atk": "263.07",
+      "secondary": "ATK 22.50%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Waveworn Residue 235",
+        "quantity": "5"
+      },
+      {
+        "name": "HF Whisperin Core",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Plasma Recoiler",
+      "description": "Within 12 s after Resonance Skill is cast, increases ATK by 3% every 2 s, stacking up to 4 time(s). This effect can be triggered 1 time(s) every 12 s. When the number of stacks reaches 4, all stacks will be reset within 6 s."
+    },
+    "about": "The Broadblade born from the aerial phenomenon. The blacksmith incorporates the feelings of witnessing the alien star into the weapon, making it look hollow and light, but it can exert the invincible gravity of the starfall.",
+    "source": "https://wuthering.gg/weapons/helios-cleaver"
+  },
+  {
+    "id": "lunar-cutter",
+    "slug": "lunar-cutter",
+    "name": "Lunar Cutter",
+    "rarity": 4,
+    "type": "Sword",
+    "image": "/assets/weapons/lunar-cutter.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21020064_UI.png",
+    "stats": {
+      "atk": "263.07",
+      "secondary": "ATK 22.50%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Polarized Metallic Drip",
+        "quantity": "5"
+      },
+      {
+        "name": "HF Howler Core",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Preordained",
+      "description": "Equipped Resonator gains 6 stack(s) of Oath upon entering the battlefield. Each stack increases ATK by 2%, up to 6 stacks. This effect can be triggered 1 time(s) every 12 s. The equipped Resonator loses 1 stack(s) of Oath every 2 s, and gains 6 stack(s) upon defeating an enemy."
+    },
+    "about": "The Sword born from the aerial phenomenon. The forger integrates the feelings of witnessing the alien star into the weapon, making it look light and sharp, but it can exert the energy of breaking the sky and cutting iron like mud.",
+    "source": "https://wuthering.gg/weapons/lunar-cutter"
+  },
+  {
+    "id": "novaburst",
+    "slug": "novaburst",
+    "name": "Novaburst",
+    "rarity": 4,
+    "type": "Pistols",
+    "image": "/assets/weapons/novaburst.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21030064_UI.png",
+    "stats": {
+      "atk": "263.07",
+      "secondary": "ATK 22.50%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Refined Phlogiston",
+        "quantity": "5"
+      },
+      {
+        "name": "Improved Ring",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Ever-changing",
+      "description": "When the Resonator dashes or dodges, increases ATK by 4%, stacking up to 3 time(s). This effect lasts for 8 s."
+    },
+    "about": "Pistols born from the strange phenomena in the sky. The forger infused the weapon with the feelings from witnessing the strange star, making it look hollow and light, yet extremely stable, with the power of thunder when it fires.",
+    "source": "https://wuthering.gg/weapons/novaburst"
+  },
+  {
+    "id": "hollow-mirage",
+    "slug": "hollow-mirage",
+    "name": "Hollow Mirage",
+    "rarity": 4,
+    "type": "Gauntlet",
+    "image": "/assets/weapons/hollow-mirage.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21040064_UI.png",
+    "stats": {
+      "atk": "263.07",
+      "secondary": "ATK 22.50%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Cadence Leaf",
+        "quantity": "5"
+      },
+      {
+        "name": "HF Howler Core",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Celestial Blessing",
+      "description": "When Resonance Liberation is cast, grants 3 stack(s) of Iron Armor. Each stack increases ATK and DEF by 3%, stacking up to 3 time(s). When the Resonator takes damage, reduces the number of stacks by 1."
+    },
+    "about": "The Gauntlets born from the strange phenomenon in the sky. The blacksmith infused the feelings of witnessing the strange star into the weapon, making it look hollow and light, but it can exert a tremendous momentum while protecting the user.",
+    "source": "https://wuthering.gg/weapons/hollow-mirage"
+  },
+  {
+    "id": "comet-flare",
+    "slug": "comet-flare",
+    "name": "Comet Flare",
+    "rarity": 4,
+    "type": "Pistols",
+    "image": "/assets/weapons/comet-flare.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21050064_UI.png",
+    "stats": {
+      "atk": "263.07",
+      "secondary": "HP 22.50%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Andante Helix",
+        "quantity": "5"
+      },
+      {
+        "name": "Improved Ring",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Luminous Protection",
+      "description": "When dealing Basic Attack DMG or Heavy Attack DMG, increases Healing Bonus by 3%, stacking up to 3 time(s). This effect lasts for 8 s and can be triggered 1 time(s) every 0.6 s."
+    },
+    "about": "A Rectifier born born from an aerial phenomenon. Capturing the essence of an alien star, its design is delicate and lightweight, yet it remains sturdy and adaptable.",
+    "source": "https://wuthering.gg/weapons/comet-flare"
+  },
+  {
+    "id": "waning-redshift",
+    "slug": "waning-redshift",
+    "name": "Waning Redshift",
+    "rarity": 4,
+    "type": "Pistols",
+    "image": "/assets/weapons/waning-redshift.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21010084_UI.png",
+    "stats": {
+      "atk": "294.96",
+      "secondary": "ATK 13.50%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Waveworn Residue 235",
+        "quantity": "5"
+      },
+      {
+        "name": "HF Whisperin Core",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Intergalactic Gaze",
+      "description": "Casting the Resonance Skill grants 6 Resonance Energy and increases ATK by 10%, lasting for 16 s. This effect can be triggered once every 20 s."
+    },
+    "about": "A prototype weapon designed by the Black Shores for elite combatants. This broadblade takes its name from the fate of a blazar—a galactic nucleus whose blinding radiance pierces the cosmos, shining unmistakably across billions of light years.",
+    "source": "https://wuthering.gg/weapons/waning-redshift"
+  },
+  {
+    "id": "endless-collapse",
+    "slug": "endless-collapse",
+    "name": "Endless Collapse",
+    "rarity": 4,
+    "type": "Broadblade",
+    "image": "/assets/weapons/endless-collapse.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21020084_UI.png",
+    "stats": {
+      "atk": "294.96",
+      "secondary": "ATK 13.50%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Polarized Metallic Drip",
+        "quantity": "5"
+      },
+      {
+        "name": "HF Howler Core",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Intergalactic Gaze",
+      "description": "Casting the Resonance Skill grants 6 Resonance Energy and increases ATK by 10%, lasting for 16 s. This effect can be triggered once every 20 s."
+    },
+    "about": "A prototype weapon designed by the Black Shores for elite combatants. This sword takes its name from the heart of a blazar—a galactic nucleus whose blinding radiance pierces the cosmos, shining unmistakably across billions of light years.",
+    "source": "https://wuthering.gg/weapons/endless-collapse"
+  },
+  {
+    "id": "relativistic-jet",
+    "slug": "relativistic-jet",
+    "name": "Relativistic Jet",
+    "rarity": 4,
+    "type": "Pistols",
+    "image": "/assets/weapons/relativistic-jet.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21030084_UI.png",
+    "stats": {
+      "atk": "294.96",
+      "secondary": "ATK 13.50%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Refined Phlogiston",
+        "quantity": "5"
+      },
+      {
+        "name": "Improved Ring",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Intergalactic Gaze",
+      "description": "Casting the Resonance Skill grants 6 Resonance Energy and increases ATK by 10%, lasting for 16 s. This effect can be triggered once every 20 s."
+    },
+    "about": "A prototype weapon designed by the Black Shores for elite combatants. These pistols take their name from the incessant course of destruction of a blazar—a galactic nucleus whose blinding radiance pierces the cosmos, shining unmistakably across billions of light years.",
+    "source": "https://wuthering.gg/weapons/relativistic-jet"
+  },
+  {
+    "id": "celestial-spiral",
+    "slug": "celestial-spiral",
+    "name": "Celestial Spiral",
+    "rarity": 4,
+    "type": "Gauntlet",
+    "image": "/assets/weapons/celestial-spiral.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21040084_UI.png",
+    "stats": {
+      "atk": "294.96",
+      "secondary": "ATK 13.50%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Cadence Leaf",
+        "quantity": "5"
+      },
+      {
+        "name": "HF Howler Core",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Intergalactic Gaze",
+      "description": "Casting the Resonance Skill grants 6 Resonance Energy and increases ATK by 10%, lasting for 16 s. This effect can be triggered once every 20 s."
+    },
+    "about": "A prototype weapon designed by the Black Shores for elite combatants. These gauntlets take their name from the tragic demise of a blazar—a galactic nucleus whose blinding radiance pierces the cosmos, shining unmistakably across billions of light years.",
+    "source": "https://wuthering.gg/weapons/celestial-spiral"
+  },
+  {
+    "id": "fusion-accretion",
+    "slug": "fusion-accretion",
+    "name": "Fusion Accretion",
+    "rarity": 4,
+    "type": "Broadblade",
+    "image": "/assets/weapons/fusion-accretion.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21050084_UI.png",
+    "stats": {
+      "atk": "294.96",
+      "secondary": "ATK 13.50%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Andante Helix",
+        "quantity": "5"
+      },
+      {
+        "name": "Improved Ring",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Intergalactic Gaze",
+      "description": "Casting the Resonance Skill grants 6 Resonance Energy and increases ATK by 10%, lasting for 16 s. This effect can be triggered once every 20 s."
+    },
+    "about": "A prototype weapon designed by the Black Shores for elite combatants. This rectifier takes its name from the devastating might of a blazar—a galactic nucleus whose blinding radiance pierces the cosmos, shining unmistakably across billions of light years.",
+    "source": "https://wuthering.gg/weapons/fusion-accretion"
+  },
+  {
+    "id": "somnoire-anchor",
+    "slug": "somnoire-anchor",
+    "name": "Somnoire Anchor",
+    "rarity": 4,
+    "type": "Rectifier",
+    "image": "/assets/weapons/somnoire-anchor.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21020019_UI.png",
+    "stats": {
+      "atk": "294.96",
+      "secondary": "ATK 13.50%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Polarized Metallic Drip",
+        "quantity": "5"
+      },
+      {
+        "name": "HF Howler Core",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Meow!",
+      "description": "Gain 1 stack of Hiss when dealing damage to the target, with 1 stack generated every 1 s. Hiss: each stack increases the wielder's ATK by 2% for 3 s, stacking up to 10 times. Switching off the wielder clears all stacks. Gaining 10 stacks increases the wielder's Crit. Rate by 6%."
+    },
+    "about": "An anchor once used by Ivory Gatekeeper to stabilize the Somnoire. However, it now looks different ever since Ivory Gatekeeper transformed into a white cat...",
+    "source": "https://wuthering.gg/weapons/somnoire-anchor"
+  },
+  {
+    "id": "call-of-the-abyss",
+    "slug": "call-of-the-abyss",
+    "name": "Call of the Abyss",
+    "rarity": 4,
+    "type": "Sword",
+    "image": "/assets/weapons/call-of-the-abyss.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21050017_UI.png",
+    "stats": {
+      "atk": "215.24",
+      "secondary": "Energy Regen 38.40%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Andante Helix",
+        "quantity": "5"
+      },
+      {
+        "name": "Improved Ring",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Pole of the Celestial Dome",
+      "description": "Casting Resonance Liberation increases the Resonator's Healing Bonus by 16% for 15 s."
+    },
+    "about": "Held by the keepers of this land, this scepter was once a symbol of dominion over its people and the architectural marvels they achieved. However, it has long lost its luster, and its grandeur blends into the ripples of the pipe organ melodies of Rinascita.",
+    "source": "https://wuthering.gg/weapons/call-of-the-abyss"
+  },
+  {
+    "id": "meditations-on-mercy",
+    "slug": "meditations-on-mercy",
+    "name": "Meditations on Mercy",
+    "rarity": 4,
+    "type": "Rectifier",
+    "image": "/assets/weapons/meditations-on-mercy.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21010094_UI.png",
+    "stats": {
+      "atk": "294.96",
+      "secondary": "ATK 13.50%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Waveworn Residue 235",
+        "quantity": "5"
+      },
+      {
+        "name": "HF Whisperin Core",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Rhetoric",
+      "description": "Dealing DMG to enemies with Negative Statuses increases the wielder's ATK by 4% for 10 s. This effect can be triggered 1 time per second, stackable up to 4 times."
+    },
+    "about": "This weapon draws its design inspiration from the play—Meditations on Mercy. In the brief pauses between each swing, a warrior wrestles with an inner conflict: to bring down righteous punishment or extend a hand of redemption? Behind every clash of steel is the struggle between wrath and mercy.",
+    "source": "https://wuthering.gg/weapons/meditations-on-mercy"
+  },
+  {
+    "id": "fables-of-wisdom",
+    "slug": "fables-of-wisdom",
+    "name": "Fables of Wisdom",
+    "rarity": 4,
+    "type": "Rectifier",
+    "image": "/assets/weapons/fables-of-wisdom.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21020094_UI.png",
+    "stats": {
+      "atk": "294.96",
+      "secondary": "ATK 13.50%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Polarized Metallic Drip",
+        "quantity": "5"
+      },
+      {
+        "name": "HF Howler Core",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Rhetoric",
+      "description": "Dealing DMG to enemies with Negative Statuses increases the wielder's ATK by 4% for 10 s. This effect can be triggered 1 time per second, stackable up to 4 times."
+    },
+    "about": "This weapon draws its design inspiration from the play—Fables of Wisdom. A wayfarer once carried this sword, who spun fables of wisdom, passing on insights in the form of witty jests. Keen ears listened to the stories for the truth, while shallow minds heard only amusing punchlines.",
+    "source": "https://wuthering.gg/weapons/fables-of-wisdom"
+  },
+  {
+    "id": "romance-in-farewell",
+    "slug": "romance-in-farewell",
+    "name": "Romance in Farewell",
+    "rarity": 4,
+    "type": "Sword",
+    "image": "/assets/weapons/romance-in-farewell.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21030094_UI.png",
+    "stats": {
+      "atk": "294.96",
+      "secondary": "ATK 13.50%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Refined Phlogiston",
+        "quantity": "5"
+      },
+      {
+        "name": "Improved Ring",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Rhetoric",
+      "description": "Dealing DMG to enemies with Negative Statuses increases the wielder's ATK by 4% for 10 s. This effect can be triggered 1 time per second, stackable up to 4 times."
+    },
+    "about": "This weapon draws its design inspiration from the play—Romance in Farewell. This pistol was once the symbol of the aspiration for repute, the weight of unrequited love, and the tremors of unspoken words. When the trigger is pulled, and the curtain drops, it turns into a long farewell and a sign of lingering sorrow in the heart of the bereaved.",
+    "source": "https://wuthering.gg/weapons/romance-in-farewell"
+  },
+  {
+    "id": "legend-of-drunken-hero",
+    "slug": "legend-of-drunken-hero",
+    "name": "Legend of Drunken Hero",
+    "rarity": 4,
+    "type": "Broadblade",
+    "image": "/assets/weapons/legend-of-drunken-hero.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21040094_UI.png",
+    "stats": {
+      "atk": "294.96",
+      "secondary": "ATK 13.50%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Cadence Leaf",
+        "quantity": "5"
+      },
+      {
+        "name": "HF Howler Core",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Rhetoric",
+      "description": "Dealing DMG to enemies with Negative Statuses increases the wielder's ATK by 4% for 10 s. This effect can be triggered 1 time per second, stackable up to 4 times."
+    },
+    "about": "This weapon draws its design inspiration from the play—Legend of Drunken Hero. From the cup flows a liquid that grants courage and strength, empowering the hero to defy fate and turn the tide with his gauntlets. Yet in this intoxicating delight lies peril—dulled senses become the hero's undoing as enemies close in. Thus, in those wine-stained pages, one always read about triumphs followed by defeats.",
+    "source": "https://wuthering.gg/weapons/legend-of-drunken-hero"
+  },
+  {
+    "id": "waltz-in-masquerade",
+    "slug": "waltz-in-masquerade",
+    "name": "Waltz in Masquerade",
+    "rarity": 4,
+    "type": "Pistols",
+    "image": "/assets/weapons/waltz-in-masquerade.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21050094_UI.png",
+    "stats": {
+      "atk": "294.96",
+      "secondary": "ATK 13.50%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Andante Helix",
+        "quantity": "5"
+      },
+      {
+        "name": "Improved Ring",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Rhetoric",
+      "description": "Dealing DMG to enemies with Negative Statuses increases the wielder's ATK by 4% for 10 s. This effect can be triggered 1 time per second, stackable up to 4 times."
+    },
+    "about": "This weapon draws its design inspiration from the play—Waltz in Masquerade. A waltz is a dance of spectacle and masquerade, where the grand symphony drowns whispered secrets and swirling dresses conceal the exchange of letters and promises. The dancers speak a silent language, as smooth and precise as the perfect resonance of a rectifier.",
+    "source": "https://wuthering.gg/weapons/waltz-in-masquerade"
+  },
+  {
+    "id": "ocean-s-gift",
+    "slug": "ocean-s-gift",
+    "name": "Ocean's Gift",
+    "rarity": 4,
+    "type": "Rectifier",
+    "image": "/assets/weapons/ocean-s-gift.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21050036_UI.png",
+    "stats": {
+      "atk": "294.96",
+      "secondary": "ATK 13.50%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Andante Helix",
+        "quantity": "5"
+      },
+      {
+        "name": "Improved Ring",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Fish Catch",
+      "description": "Dealing DMG to enemies with Spectro Frazzle increases the wielder's Spectro DMG by 6%, gaining 1 stack per second for 6s, stacking up to 4 times."
+    },
+    "about": "To fishers, the sea is their field of harvest. Harvest means hope.",
+    "source": "https://wuthering.gg/weapons/oceans-gift"
+  },
+  {
+    "id": "aureate-zenith",
+    "slug": "aureate-zenith",
+    "name": "Aureate Zenith",
+    "rarity": 4,
+    "type": "Gauntlet",
+    "image": "/assets/weapons/aureate-zenith.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21010104_UI.png",
+    "stats": {
+      "atk": "263.07",
+      "secondary": "Crit. DMG 30.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Waveworn Residue 235",
+        "quantity": "5"
+      },
+      {
+        "name": "HF Whisperin Core",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Oath of Tide Hunters",
+      "description": "Casting Resonance Liberation increases ATK by 7.2% and grants 10.8% Heavy Attack DMG Bonus for 15 s."
+    },
+    "about": "A Broadblade awarded to Gladiators of exceptional merit. Its engravings draw inspiration from Griffrexes—natural-born hunters and the first allies Septimontians found in this land. Their bond needs no words, radiant and pure, like the blazing sun that watches over all.",
+    "source": "https://wuthering.gg/weapons/aureate-zenith"
+  },
+  {
+    "id": "feather-edge",
+    "slug": "feather-edge",
+    "name": "Feather Edge",
+    "rarity": 4,
+    "type": "Sword",
+    "image": "/assets/weapons/feather-edge.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21020104_UI.png",
+    "stats": {
+      "atk": "263.07",
+      "secondary": "Crit. Rate 15.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Polarized Metallic Drip",
+        "quantity": "5"
+      },
+      {
+        "name": "HF Howler Core",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Oath of Tide Hunters",
+      "description": "Casting Resonance Liberation increases ATK by 7.2% and grants 10.8% Resonance Liberation DMG Bonus for 15 s."
+    },
+    "about": "A Sword awarded to Gladiators of exceptional merit. Its engravings draw inspiration from Griffrexes—natural-born hunters and the first allies Septimontians found in this land. Their bond needs no words, radiant and pure, like the blazing sun that watches over all.",
+    "source": "https://wuthering.gg/weapons/feather-edge"
+  },
+  {
+    "id": "solar-flame",
+    "slug": "solar-flame",
+    "name": "Solar Flame",
+    "rarity": 4,
+    "type": "Sword",
+    "image": "/assets/weapons/solar-flame.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21030104_UI.png",
+    "stats": {
+      "atk": "263.07",
+      "secondary": "Crit. Rate 15.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Refined Phlogiston",
+        "quantity": "5"
+      },
+      {
+        "name": "Improved Ring",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Oath of Tide Hunters",
+      "description": "Dealing Basic Attack or Heavy Attack DMG increases ATK by 2.2% and grants 2.2% Heavy Attack DMG Bonus for 7 s, stacking up to 4 times. This effect can be triggered 1 every 1 s."
+    },
+    "about": "A pair of Pistols awarded to Gladiators of exceptional merit. Its engravings draw inspiration from Griffrexes—natural-born hunters and the first allies Septimontians found in this land. Their bond needs no words, radiant and pure, like the blazing sun that watches over all.",
+    "source": "https://wuthering.gg/weapons/solar-flame"
+  },
+  {
+    "id": "aether-strike",
+    "slug": "aether-strike",
+    "name": "Aether Strike",
+    "rarity": 4,
+    "type": "Sword",
+    "image": "/assets/weapons/aether-strike.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21040104_UI.png",
+    "stats": {
+      "atk": "263.07",
+      "secondary": "Crit. DMG 30.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Cadence Leaf",
+        "quantity": "5"
+      },
+      {
+        "name": "HF Howler Core",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Oath of Tide Hunters",
+      "description": "Casting Resonance Liberation increases ATK by 7.2% and grants 10.8% Resonance Liberation DMG Bonus for 15 s."
+    },
+    "about": "A pair of Gauntlets awarded to Gladiators of exceptional merit. Its engravings draw inspiration from Griffrexes—natural-born hunters and the first allies Septimontians found in this land. Their bond needs no words, radiant and pure, like the blazing sun that watches over all.",
+    "source": "https://wuthering.gg/weapons/aether-strike"
+  },
+  {
+    "id": "radiant-dawn",
+    "slug": "radiant-dawn",
+    "name": "Radiant Dawn",
+    "rarity": 4,
+    "type": "Sword",
+    "image": "/assets/weapons/radiant-dawn.png",
+    "imageSource": "https://wuthering.gg/_ipx/q_70&s_120x120/images/items/T_IconWeapon21050104_UI.png",
+    "stats": {
+      "atk": "263.07",
+      "secondary": "Crit. DMG 30.00%"
+    },
+    "level": 60,
+    "maxLevel": 60,
+    "rank": 1,
+    "ascensionMaterials": [
+      {
+        "name": "Andante Helix",
+        "quantity": "5"
+      },
+      {
+        "name": "Improved Ring",
+        "quantity": "5"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": "48000"
+      }
+    ],
+    "skill": {
+      "name": "Oath of Tide Hunters",
+      "description": "Casting Resonance Skill increases ATK by 9% and grants 9% Basic Attack DMG Bonus for 10 s."
+    },
+    "about": "A Rectifier awarded to Gladiators of exceptional merit. Its engravings draw inspiration from Griffrexes—natural-born hunters and the first allies Septimontians found in this land. Their bond needs no words, radiant and pure, like the blazing sun that watches over all.",
+    "source": "https://wuthering.gg/weapons/radiant-dawn"
+  }
+]

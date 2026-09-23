@@ -6,7 +6,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "update-items": "node scripts/fetch-items.js"
+    "update-items": "node scripts/fetch-items.js",
+    "update-weapons": "node scripts/fetch-weapons.js"
   },
   "dependencies": {
     "@vitejs/plugin-react": "latest",

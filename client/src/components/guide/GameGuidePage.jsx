@@ -2,11 +2,6 @@ import './GameGuidePage.css';
 
 const playlistId = 'PLvC_P0eauXFDd8PDt6ahEqPXKMtD8S5Vu';
 const exampleVideoId = 'lN9IXcqF09I';
-const categories = [
-  { number: '01', title: 'Getting Started', description: 'Orient yourself across Solaris-3 and find the guides you need.' },
-  { number: '02', title: 'Combat Systems', description: 'Explore the systems and techniques behind each encounter.' },
-  { number: '03', title: 'Echo Tuning', description: 'A dedicated index for Echoes and related systems.' },
-];
 
 export default function GameGuidePage() {
   const playlistUrl = `https://www.youtube.com/playlist?list=${playlistId}`;
@@ -16,7 +11,6 @@ export default function GameGuidePage() {
       <div className="guide-hero__copy"><p className="signal">SOLARIS-3 ARCHIVE</p><h1 id="guide-title">Game <em>Guide</em></h1><p className="guide-hero__intro">A field guide to Solaris-3. Explore tutorials, combat systems, Echo tuning, progression, and more.</p><a className="guide-link" href="#guide-archive">EXPLORE THE ARCHIVE <span aria-hidden="true">↓</span></a></div>
       <span className="guide-hero__index" aria-hidden="true">FIELD NOTES&nbsp; / &nbsp;001</span>
     </section>
-    <section className="guide-categories" aria-label="Guide categories">{categories.map(category => <a className="guide-category" href="#guide-archive" key={category.number}><span className="guide-category__number">{category.number} <i> / INDEX</i></span><h2>{category.title}</h2><p>{category.description}</p><span className="guide-category__action">OPEN GUIDE <b aria-hidden="true">↗</b></span></a>)}</section>
     <section className="guide-archive" id="guide-archive" aria-labelledby="guide-archive-title">
       <div className="guide-archive__heading"><div><p className="signal">TRANSMISSION LIBRARY&nbsp; / &nbsp;SOLARIS-3</p><h2 id="guide-archive-title">Video <em>Archive</em></h2></div><a className="guide-playlist-link" href={playlistUrl} target="_blank" rel="noreferrer">OPEN PLAYLIST ON YOUTUBE <span aria-hidden="true">↗</span></a></div>
       <div className="guide-archive__layout"><div className="guide-player-frame"><iframe src={`https://www.youtube-nocookie.com/embed/${exampleVideoId}?list=${playlistId}&rel=0`} title="Solaris-3 Game Guide YouTube playlist" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen /></div>

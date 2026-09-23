@@ -11,7 +11,7 @@ const referenceCharacterData = {
   Qiuyuan: ['Aero', 'Sword', 5], Roccia: ['Havoc', 'Gauntlets', 5], Qingxiao: ['Aero', 'Sword', 5], Lynae: ['Spectro', 'Pistols', 5],
   Luuk: ['Spectro', 'Gauntlets', 5, 'Luuk Herssen'], Jingran: ['Fusion', 'Broadblade', 5], Denia: ['Fusion', 'Rectifier', 5],
   Ciaccona: ['Aero', 'Pistols', 5], Chisa: ['Havoc', 'Broadblade', 5], Cantarella: ['Havoc', 'Rectifier', 5], Augusta: ['Electro', 'Broadblade', 5],
-  Iuno: ['Aero', 'Gauntlets', 5], Phoebe: ['Spectro', 'Rectifier', 5], Calcharo: ['Electro', 'Broadblade', 5], Danjin: ['Havoc', 'Sword', 4],
+  Iuno: ['Aero', 'Gauntlets', 5], Phoebe: ['Spectro', 'Rectifier', 5], Danjin: ['Havoc', 'Sword', 4],
   Jianxin: ['Aero', 'Gauntlets', 5], Yangyang: ['Aero', 'Sword', 4], Lumi: ['Electro', 'Broadblade', 4], 'Xiangli Yao': ['Electro', 'Gauntlets', 5],
   Phrolova: ['Havoc', 'Rectifier', 5], Cartethyia: ['Aero', 'Sword', 5], 'Rover Spectro': ['Spectro', 'Sword', 5, 'Rover (Spectro)'], 'Rover Havoc': ['Havoc', 'Sword', 5, 'Rover (Havoc)']
 };
@@ -19,6 +19,13 @@ const names = Object.keys(referenceCharacterData);
 const elements = [...new Set(Object.values(referenceCharacterData).map(([element]) => element))];
 const weapons = [...new Set(Object.values(referenceCharacterData).map(([, weapon]) => weapon))];
 const portraitById = Object.fromEntries(portraits.map(({ Slug, File }) => [Slug, File]));
+const referencePortraits = {
+  Calcharo: '/character-art/calcharo.png',
+  Danjin: '/character-art/danjin.png',
+  Jianxin: '/character-art/jianxin.png',
+  'Rover Spectro': '/character-art/rover-spectro.png',
+  'Rover Havoc': '/character-art/rover-havoc.png'
+};
 export const portraitFiles = portraits.map(({ File }) => File);
 
 const characterRecords = names.map(name => {
@@ -32,7 +39,7 @@ const characterRecords = names.map(name => {
     element,
     rarity,
     weapon,
-    image: portraitById[slug] ?? (name === 'Luuk' ? portraitById.luuk : null),
+    image: referencePortraits[name] ?? portraitById[slug] ?? (name === 'Luuk' ? portraitById.luuk : null),
     referenceSource: 'https://wuthering.gg/characters',
     detailsAvailable: true
   };
