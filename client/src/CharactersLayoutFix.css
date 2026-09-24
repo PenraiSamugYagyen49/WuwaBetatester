@@ -15,6 +15,53 @@
   width: 100%;
 }
 
+/* Override the legacy two-column archive shell that was squeezing this page. */
+.characters-route .characters-page {
+  display: block;
+  width: min(calc(100% - clamp(2rem, 8vw, 10rem)), 1760px);
+  min-height: 0;
+  grid-template-columns: minmax(0, 1fr);
+  align-items: initial;
+  gap: 0;
+  overflow: visible;
+}
+
+.characters-route .characters-page::before {
+  right: auto;
+  left: 50%;
+  width: 100vw;
+  transform: translateX(-50%);
+}
+
+.characters-route .character-filters {
+  grid-template-columns: minmax(16rem, 2.2fr) repeat(3, minmax(11rem, 1fr));
+}
+
+.characters-route .characters-results {
+  justify-content: flex-end;
+  min-height: 2.5rem;
+}
+
+.characters-route .character-grid {
+  width: 100%;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 220px), 1fr));
+  gap: 1rem;
+}
+
+@media (max-width: 850px) {
+  .characters-route .characters-page {
+    width: calc(100% - 2rem);
+  }
+
+  .characters-route .character-filters {
+    grid-template-columns: minmax(0, 2fr) repeat(3, minmax(0, 1fr));
+  }
+
+  .characters-route .character-grid {
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 180px), 1fr));
+  }
+}
+
 @media (max-width: 850px) {
   .characters-hero {
     gap: 1.5rem;

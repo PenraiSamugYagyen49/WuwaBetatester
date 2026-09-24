@@ -11,7 +11,11 @@ export default function LineWaves({ speed = 2, innerLineCount = 32, outerLineCou
     let frame, width = 0, height = 0, mouse = { x: .5, y: .5 };
     const palette = [hexToRgb(color1), hexToRgb(color2), hexToRgb(color3)];
     const resize = () => { const rect = canvas.getBoundingClientRect(), dpr = Math.min(devicePixelRatio || 1, 2); width = rect.width; height = rect.height; canvas.width = width * dpr; canvas.height = height * dpr; context.setTransform(dpr, 0, 0, dpr, 0, 0); };
+    let lastDraw = 0, visible = false;
     const draw = time => {
+      frame = requestAnimationFrame(draw);
+      if (!visible || document.hidden || time - lastDraw < 40) return;
+      lastDraw = time;
       context.clearRect(0, 0, width, height);
       const lines = innerLineCount + outerLineCount;
       const radians = rotation * Math.PI / 180, diagonal = Math.hypot(width, height), centerX = width / 2, centerY = height / 2;
@@ -34,11 +38,12 @@ export default function LineWaves({ speed = 2, innerLineCount = 32, outerLineCou
         context.strokeStyle = `rgba(${color.join(',')},${brightness * edgeAlpha})`;
         context.stroke();
       }
-      frame = requestAnimationFrame(draw);
     };
     const move = event => { const rect = canvas.getBoundingClientRect(); mouse = { x: (event.clientX - rect.left) / rect.width, y: (event.clientY - rect.top) / rect.height }; };
-    resize(); const observer = new ResizeObserver(resize); observer.observe(canvas); if (enableMouseInteraction) canvas.addEventListener('pointermove', move); frame = requestAnimationFrame(draw);
-    return () => { cancelAnimationFrame(frame); observer.disconnect(); canvas.removeEventListener('pointermove', move); };
+    resize(); const observer = new ResizeObserver(resize); observer.observe(canvas); if (enableMouseInteraction) canvas.addEventListener('pointermove', move);
+    const intersection = new IntersectionObserver(([entry]) => { visible = entry.isIntersecting; });
+    intersection.observe(canvas); frame = requestAnimationFrame(draw);
+    return () => { cancelAnimationFrame(frame); observer.disconnect(); intersection.disconnect(); canvas.removeEventListener('pointermove', move); };
   }, [speed, innerLineCount, outerLineCount, warpIntensity, rotation, edgeFadeWidth, colorCycleSpeed, brightness, color1, color2, color3, enableMouseInteraction, mouseInfluence]);
   return <canvas ref={canvasRef} className="line-waves" aria-hidden="true" />;
 }
