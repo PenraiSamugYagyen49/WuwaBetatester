@@ -120,6 +120,78 @@ const verifiedCharacterOverrides = {
     ],
     background: null
   },
+  changli: {
+    detailsAvailable: true,
+    referenceSource: 'https://wuthering.gg/characters/changli',
+    role: 'Main DPS',
+    maxLevel: 90,
+    introduction: "Changli is a counselor serving the Jinzhou Magistrate and a former Secretary-General in the capital. Shrouded in flames, she is fated to burn brightly until her final embers, using fiery determination and a strategic mindset to reach her ultimate goal.",
+    stats: { hp: '10387', atk: '462', def: '1099', critRate: '5%', critDMG: '150%', energyRegen: '100%', maxResonanceEnergy: '140' },
+    materials: [{ name: 'Rage Tacet Core', quantity: '16' }, { name: 'Pavo Plum', quantity: '20' }, { name: 'Tailored Ring', quantity: '4' }, { name: 'Shell Credit', quantity: '80000', image: '/assets/items/shell-credit.png' }],
+    weaponBuild: { name: 'Blazing Brilliance', level: 90, rank: 5, atk: '587.50', secondary: 'Crit. DMG 48.60%', passiveName: 'Blazing Brilliance', passive: 'Increases ATK by 24%. Dealing damage grants Searing Feather, and casting Resonance Skill grants 5 stacks. Each stack increases Resonance Skill DMG Bonus by 8%, up to 14 stacks.' },
+    echoBuild: {
+      echoes: [{ name: 'Inferno Rider', cost: 4 }, { name: 'Havoc Dreadmane', cost: 3 }, { name: 'Viridblaze Saurian', cost: 3 }, { name: 'Fusion Prism', cost: 1 }, { name: 'Lava Larva', cost: 1 }],
+      sonata: 'Molten Rift',
+      effects: [{ pieces: '2-Piece', description: 'Fusion DMG increases by 10%.' }, { pieces: '5-Piece', description: 'Fusion DMG increases by 30% for 15 s after releasing Resonance Skill.' }],
+      bestStats: null,
+      echoAbility: { name: 'Inferno Rider', rank: 5, cooldown: '20 s', description: 'Transform into Inferno Rider for three slashes. The final hit grants the current Resonator Fusion DMG and Basic Attack DMG bonuses. Holding Echo Skill enters Riding Mode.' }
+    },
+    buildStats: null
+  },
+  lupa: {
+    detailsAvailable: true,
+    referenceSource: 'https://wuthering.gg/characters/lupa',
+    role: 'Fusion Support',
+    maxLevel: 90,
+    introduction: "A Gladiator of Septimont and a radiant star of the arena. Fiery and straightforward, Lupa lives like a wild lone wolf and embraces the adrenaline rush of battle.",
+    stats: { hp: '11912', atk: '387', def: '1185', critRate: '5%', critDMG: '150%', energyRegen: '100%', maxResonanceEnergy: '140' },
+    materials: [{ name: 'Unfading Glory', quantity: '16' }, { name: 'Bloodleaf Viburnum', quantity: '20' }, { name: 'FF Howler Core', quantity: '4' }, { name: 'Shell Credit', quantity: '80000', image: '/assets/items/shell-credit.png' }],
+    weaponBuild: { name: 'Wildfire Mark', level: 90, rank: 5, atk: '587.50', secondary: 'Crit. DMG 48.60%', passiveName: 'Wildfire Mark', passive: 'Increases ATK by 24%. Intro Skill or Resonance Liberation increases Resonance Liberation DMG. Heavy Attack DMG extends the effect and grants the team Fusion DMG Bonus.' },
+    echoBuild: {
+      echoes: [{ name: 'Lioness of Glory', cost: 4 }, { name: "Pilgrim's Shell", cost: 3 }, { name: 'Kerasaur', cost: 3 }, { name: 'Electro Drake', cost: 1 }, { name: 'Fusion Drake', cost: 1 }],
+      sonata: 'Flaming Clawprint',
+      effects: [{ pieces: '2-Piece', description: 'Fusion DMG increases by 10%.' }, { pieces: '5-Piece', description: 'Casting Resonance Liberation grants the team Fusion DMG Bonus and the caster Resonance Liberation DMG Bonus for 35 s.' }],
+      bestStats: null,
+      echoAbility: { name: 'Halberd of Glory', rank: 5, cooldown: '20 s', description: 'Summons the Halberd of Glory for an area attack followed by a delayed blast. The equipped Resonator gains Fusion DMG Bonus and Resonance Liberation DMG Bonus.' }
+    },
+    buildStats: null
+  },
+  cartethyia: {
+    detailsAvailable: true,
+    referenceSource: 'https://wuthering.gg/characters/cartethyia',
+    role: 'Main DPS',
+    maxLevel: 90,
+    introduction: 'Cartethyia is a wandering knight who travels across Rinascita. Formerly known as the Blessed Maiden, the vessel of Divinity, and the Queen of Gale and Tide, she went by the name Fleurdelys. Now she is a free and unfettered wandering knight.',
+    stats: { hp: '14800', atk: '312', def: '611', critRate: '5%', critDMG: '150%', energyRegen: '100%', maxResonanceEnergy: '140' },
+    materials: [{ name: 'Unfading Glory', quantity: '16' }, { name: 'Bamboo Iris', quantity: '20' }, { name: 'FF Tidal Residuum', quantity: '4' }, { name: 'Shell Credit', quantity: '80000', image: '/assets/items/shell-credit.png' }],
+    weaponBuild: { name: "Defier's Thorn", level: 90, rank: 5, atk: '412.50', secondary: 'HP 72.23%', passiveName: "Defier's Thorn", passive: 'Increases Max HP by 24%. After casting Intro Skill or Basic Attacks, ignores part of the target DEF when dealing damage. Against a target with Aero Erosion, damage taken is amplified.' },
+    echoBuild: {
+      echoes: [{ name: 'Reminiscence: Fleurdelys', cost: 4 }, { name: 'Capitaneus', cost: 3 }, { name: "Pilgrim's Shell", cost: 3 }, { name: 'Glacio Drake', cost: 1 }, { name: 'Spectro Drake', cost: 1 }],
+      sonata: 'Windward Pilgrimage',
+      effects: [{ pieces: '2-Piece', description: 'Aero DMG increases by 10%.' }, { pieces: '5-Piece', description: 'Hitting a target with Aero Erosion increases Crit. Rate by 10% and Aero DMG Bonus by 30% for 10 s.' }],
+      bestStats: null,
+      echoAbility: { name: 'Windcleaver', rank: 5, cooldown: '20 s', description: 'Summons Windcleaver to attack repeatedly. The equipped Resonator gains Aero DMG Bonus, with an additional bonus for Aero Resonators and Cartethyia.' }
+    },
+    buildStats: null
+  },
+  shorekeeper: {
+    detailsAvailable: true,
+    referenceSource: 'https://wuthering.gg/characters/shorekeeper',
+    role: 'Support / Healer',
+    maxLevel: 90,
+    introduction: 'The Shorekeeper is the guardian of the Black Shores. Desires, bonds, and emotions were things she began to understand only after meeting you.',
+    stats: { hp: '16712', atk: '287', def: '1099', critRate: '5%', critDMG: '150%', energyRegen: '100%', maxResonanceEnergy: '140' },
+    materials: [{ name: 'Topological Confinement', quantity: '16' }, { name: 'Nova', quantity: '20' }, { name: 'FF Whisperin Core', quantity: '4' }, { name: 'Shell Credit', quantity: '80000', image: '/assets/items/shell-credit.png' }],
+    weaponBuild: { name: 'Stellar Symphony', level: 90, rank: 5, atk: '412.50', secondary: 'Energy Regen 77.04%', passiveName: 'Stellar Symphony', passive: 'Increases HP by 24%. Casting Resonance Liberation restores Concerto Energy. Casting a healing Resonance Skill increases nearby party members ATK for 30 s.' },
+    echoBuild: {
+      echoes: [{ name: 'Fallacy of No Return', cost: 4 }, { name: 'Rocksteady Guardian', cost: 3 }, { name: 'Stonewall Bracer', cost: 3 }, { name: 'Fission Junrock', cost: 1 }, { name: 'Snip Snap', cost: 1 }],
+      sonata: 'Rejuvenating Glow',
+      effects: [{ pieces: '2-Piece', description: 'Healing Bonus increases by 10%.' }, { pieces: '5-Piece', description: 'Healing allies increases all party members ATK by 15% for 30 s.' }],
+      bestStats: null,
+      echoAbility: { name: 'Fallacy of No Return', rank: 5, cooldown: '20 s', description: 'Deals Spectro DMG based on Max HP, then grants the wielder Energy Regen and all team members ATK. Holding Echo Skill performs a series of follow-up attacks.' }
+    },
+    buildStats: null
+  },
   lucy: {
     detailsAvailable: true,
     referenceSource: 'https://wuthering.gg/characters/lucy',
