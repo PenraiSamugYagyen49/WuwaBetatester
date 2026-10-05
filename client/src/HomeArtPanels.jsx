@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import { portraitFiles } from './data/characters';
 import './HomeArtPanels.css';
 
-const artFiles = ['1.1.jpg','1.2.jpg','1.3.jpg','1.4.jpg','2.0.png','2.1.jpg','2.2.jpg','2.3.jpg','2.4.jpg','2.5.jpg','2.6.jpg','2.7.jpg','2.8.jpg','3.0.jpg','3.1.jpg','3.2.jpg','3.3.jpg','3.4.jpg','3.4 Cyberpunk.jpg','3.4 Lucy.jpg','3.4 Rebecca.jpg','3.5.jpg','3.6.jpg'];
+const artFiles = ['1.1.jpg','1.2.jpg','1.3.jpg','1.4.jpg','2.0.png','2.1.jpg','2.2.jpg','2.3.jpg','2.4.jpg','2.5.jpg','2.6.jpg','2.7.jpg','2.8.jpg','3.0.jpg','3.1.jpg','3.2.jpg','3.3.jpg','3.4.jpg','3.4 Cyberpunk.jpg','3.4 Lucy.jpg','3.4 Rebecca.jpg','3.5.jpg','3.6.jpg','Rover Reprise Artwork.jpg'];
 const artUrl = file => `/art/00%20Version%20Art/${encodeURIComponent(file)}`;
 
 function ArtPanel({ offset, className }) {

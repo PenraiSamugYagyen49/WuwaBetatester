@@ -13,7 +13,8 @@ const referenceCharacterData = {
   Ciaccona: ['Aero', 'Pistols', 5], Chisa: ['Havoc', 'Broadblade', 5], Cantarella: ['Havoc', 'Rectifier', 5], Augusta: ['Electro', 'Broadblade', 5],
   Iuno: ['Aero', 'Gauntlets', 5], Phoebe: ['Spectro', 'Rectifier', 5], Lucy: ['Spectro', 'Pistols', 5], Danjin: ['Havoc', 'Sword', 4],
   Jianxin: ['Aero', 'Gauntlets', 5], Yangyang: ['Aero', 'Sword', 4], Lumi: ['Electro', 'Broadblade', 4], 'Xiangli Yao': ['Electro', 'Gauntlets', 5],
-  Phrolova: ['Havoc', 'Rectifier', 5], Cartethyia: ['Aero', 'Sword', 5], 'Rover Spectro': ['Spectro', 'Sword', 5, 'Rover (Spectro)'], 'Rover Havoc': ['Havoc', 'Sword', 5, 'Rover (Havoc)']
+  Phrolova: ['Havoc', 'Rectifier', 5], Cartethyia: ['Aero', 'Sword', 5], 'Rover Spectro': ['Spectro', 'Sword', 5, 'Rover (Spectro)'], 'Rover Havoc': ['Havoc', 'Sword', 5, 'Rover (Havoc)'],
+  Hsin: ['Electro', 'Rectifier', 5], Suoming: ['Electro', 'Sword', 5]
 };
 // Short gameplay summaries are included only for characters with a description
 // on the reference list. Basic element/weapon/rarity data above covers the rest.
@@ -54,7 +55,9 @@ const referenceIntroductions = {
   Cantarella: 'A Havoc healer and coordinated attacker who builds Forte to empower attacks and apply debuffs.',
   Phrolova: 'An off-field Havoc damage dealer who builds notes to command her puppet Hecate for sustained attacks.',
   Chisa: 'A Havoc support who combines debuffs, grouping, shields, and healing with her chainsaw stance.',
-  'Yangyang: Xuanling': 'A Havoc Sword user who switches stances, builds Melody, and applies Havoc Bane.'
+  'Yangyang: Xuanling': 'A Havoc Sword user who switches stances, builds Melody, and applies Havoc Bane.',
+  Hsin: 'A five-star Electro Resonator who wields a Rectifier.',
+  Suoming: 'A five-star Electro Resonator who wields a Sword.'
 };
 const names = Object.keys(referenceCharacterData);
 const elements = [...new Set(Object.values(referenceCharacterData).map(([element]) => element))];
@@ -64,8 +67,16 @@ const referencePortraits = {
   Calcharo: '/character-art/calcharo.png',
   Danjin: '/character-art/danjin.png',
   Jianxin: '/character-art/jianxin.png',
-  'Rover Spectro': '/character-art/rover-spectro.png',
-  'Rover Havoc': '/character-art/rover-havoc.png'
+  Hsin: '/character-art/hsin-3.7.jpg',
+  Suoming: '/character-art/suoming-3.7.jpg',
+  Iuno: '/character-art/iuno-new.jpg',
+  Augusta: '/character-art/augusta-new.jpg',
+  Cartethyia: '/character-art/cartethyia-new.jpg',
+  Phrolova: '/character-art/phrolova-new.jpg',
+  Phoebe: '/character-art/phoebe-new.jpg',
+  Jingran: '/character-art/jingran-new.jpg',
+  'Rover Spectro': '/character-art/rover-spectro.jpg',
+  'Rover Havoc': '/character-art/rover-havoc.jpg'
 };
 export const portraitFiles = portraits.map(({ File }) => File);
 

@@ -34,7 +34,7 @@ const menuPreviews = [
   { eyebrow: 'ARMAMENT ARCHIVE', description: 'Browse signature weapons, combat styles, and field gear.', icon: '⌁', records: weapons.slice(0, 3), count: `${weapons.length} WEAPONS` },
   { eyebrow: 'ECHO DATABASE', description: 'Discover the echoes, sonata effects, and powers found in the wild.', icon: '◉', records: echoes.slice(0, 3), count: `${echoes.length} ECHOES & SONATA EFFECTS` },
   { eyebrow: 'MATERIAL INVENTORY', description: 'Track the materials and supplies used to strengthen your team.', icon: '◇', records: items.slice(0, 3), count: `${items.length.toLocaleString()} ITEMS` },
-  { eyebrow: 'FIELD GUIDE', description: 'Learn the systems, combat basics, and routes through Solaris-3.', icon: '⌖', heroImage: 'https://i.ytimg.com/vi/lN9IXcqF09I/hqdefault.jpg', records: [{ name: 'Getting Started' }, { name: 'Combat Basics' }, { name: 'Echo Tuning' }], count: 'TRANSMISSION LIBRARY' }
+  { eyebrow: 'FIELD GUIDE', description: 'Learn the systems, combat basics, and routes through Solaris-3.', icon: '⌖', heroImage: 'https://i.ytimg.com/vi/S4DSuaYMerU/hqdefault.jpg', records: [{ name: 'Getting Started' }, { name: 'Combat Basics' }, { name: 'Echo Tuning' }], count: 'TRANSMISSION LIBRARY' }
 ];
 
 function MenuPreview({ index }) {

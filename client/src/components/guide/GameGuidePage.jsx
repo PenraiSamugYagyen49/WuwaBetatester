@@ -2,7 +2,7 @@ import './GameGuidePage.css';
 import DepthText from '../../DepthText';
 
 const playlistId = 'PLvC_P0eauXFDd8PDt6ahEqPXKMtD8S5Vu';
-const exampleVideoId = 'lN9IXcqF09I';
+const exampleVideoId = 'S4DSuaYMerU';
 
 export default function GameGuidePage() {
   const playlistUrl = `https://www.youtube.com/playlist?list=${playlistId}`;
