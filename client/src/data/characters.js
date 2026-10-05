@@ -105,19 +105,15 @@ const verifiedCharacterOverrides = {
     rarity: 5,
     weapon: 'Sword',
     role: 'Main DPS',
-    maxLevel: 90,
     introduction: 'Aemeath is a 5-Star Fusion Resonator who wields a Sword. Once an Exostrider Synchronist of Rabelle College, she now persists as a digital ghost among the stars.',
     stats: { hp: '11025', atk: '425', def: '1148', critRate: '5%', critDMG: '150%', energyRegen: '100%', maxResonanceEnergy: '140' },
-    materials: [{ name: 'Our Choice', quantity: '16' }, { name: 'Moss Amber', quantity: '20' }, { name: 'FF Exoswarm Core', quantity: '4' }, { name: 'Shell Credit', quantity: '80000', image: '/assets/items/shell-credit.png' }],
     weaponBuild: { name: 'Everbright Polestar', level: 90, rank: 1, atk: '587.50', secondary: 'Crit. Rate 24.30%', passiveName: 'Starchaser', passive: 'Increases All-Attribute DMG Bonus by 12%. When inflicting Tune Rupture - Shifting or Fusion Burst, the wielder’s Resonance Liberation DMG ignores 32% DEF and 10% Fusion RES on targets for 8 s.' },
     echoBuild: {
       echoes: [{ name: 'Sigillum', cost: 4 }, { name: 'Kronablight', cost: 3 }, { name: 'Twin Nova: Collapsar Blade', cost: 3 }, { name: 'Geospider S4', cost: 1 }, { name: 'Shadow Stepper', cost: 1 }],
       sonata: 'Trailblazing Star',
       effects: [{ pieces: '2-Piece', description: 'Fusion DMG increases by 10%.' }, { pieces: '5-Piece', description: 'Inflicting Fusion Burst or Tune Rupture - Shifting increases Crit. Rate by 20% and grants 20% Fusion DMG Bonus for 8 s.' }],
-      bestStats: null,
       echoAbility: { name: 'Sigillum', rank: 5, description: 'Summon Sigillum to unleash two attacks, dealing 68.40% and 205.20% Fusion DMG respectively. When equipped in the main slot by Aemeath, it grants 25.00% Resonance Liberation DMG Bonus.', cooldown: '20 s' }
     },
-    buildStats: null,
     skills: [
       { name: 'Infinity Calibration', type: 'Normal Attack', description: 'Perform up to 4 consecutive Fusion DMG attacks. Includes charged, mid-air, and dodge counter attacks.' },
       { name: 'Shared Voyage', type: 'Resonance Skill', description: 'Switch between Aemeath and her Mech. The Mech inherits Aemeath’s stats and unlocks additional attacks.' },
@@ -135,73 +131,57 @@ const verifiedCharacterOverrides = {
     detailsAvailable: true,
     referenceSource: 'https://wuthering.gg/characters/changli',
     role: 'Main DPS',
-    maxLevel: 90,
     introduction: "Changli is a counselor serving the Jinzhou Magistrate and a former Secretary-General in the capital. Shrouded in flames, she is fated to burn brightly until her final embers, using fiery determination and a strategic mindset to reach her ultimate goal.",
     stats: { hp: '10387', atk: '462', def: '1099', critRate: '5%', critDMG: '150%', energyRegen: '100%', maxResonanceEnergy: '140' },
-    materials: [{ name: 'Rage Tacet Core', quantity: '16' }, { name: 'Pavo Plum', quantity: '20' }, { name: 'Tailored Ring', quantity: '4' }, { name: 'Shell Credit', quantity: '80000', image: '/assets/items/shell-credit.png' }],
     weaponBuild: { name: 'Blazing Brilliance', level: 90, rank: 5, atk: '587.50', secondary: 'Crit. DMG 48.60%', passiveName: 'Blazing Brilliance', passive: 'Increases ATK by 24%. Dealing damage grants Searing Feather, and casting Resonance Skill grants 5 stacks. Each stack increases Resonance Skill DMG Bonus by 8%, up to 14 stacks.' },
     echoBuild: {
       echoes: [{ name: 'Inferno Rider', cost: 4 }, { name: 'Havoc Dreadmane', cost: 3 }, { name: 'Viridblaze Saurian', cost: 3 }, { name: 'Fusion Prism', cost: 1 }, { name: 'Lava Larva', cost: 1 }],
       sonata: 'Molten Rift',
       effects: [{ pieces: '2-Piece', description: 'Fusion DMG increases by 10%.' }, { pieces: '5-Piece', description: 'Fusion DMG increases by 30% for 15 s after releasing Resonance Skill.' }],
-      bestStats: null,
       echoAbility: { name: 'Inferno Rider', rank: 5, cooldown: '20 s', description: 'Transform into Inferno Rider for three slashes. The final hit grants the current Resonator Fusion DMG and Basic Attack DMG bonuses. Holding Echo Skill enters Riding Mode.' }
     },
-    buildStats: null
   },
   lupa: {
     detailsAvailable: true,
     referenceSource: 'https://wuthering.gg/characters/lupa',
     role: 'Fusion Support',
-    maxLevel: 90,
     introduction: "A Gladiator of Septimont and a radiant star of the arena. Fiery and straightforward, Lupa lives like a wild lone wolf and embraces the adrenaline rush of battle.",
     stats: { hp: '11912', atk: '387', def: '1185', critRate: '5%', critDMG: '150%', energyRegen: '100%', maxResonanceEnergy: '140' },
-    materials: [{ name: 'Unfading Glory', quantity: '16' }, { name: 'Bloodleaf Viburnum', quantity: '20' }, { name: 'FF Howler Core', quantity: '4' }, { name: 'Shell Credit', quantity: '80000', image: '/assets/items/shell-credit.png' }],
     weaponBuild: { name: 'Wildfire Mark', level: 90, rank: 5, atk: '587.50', secondary: 'Crit. DMG 48.60%', passiveName: 'Wildfire Mark', passive: 'Increases ATK by 24%. Intro Skill or Resonance Liberation increases Resonance Liberation DMG. Heavy Attack DMG extends the effect and grants the team Fusion DMG Bonus.' },
     echoBuild: {
       echoes: [{ name: 'Lioness of Glory', cost: 4 }, { name: "Pilgrim's Shell", cost: 3 }, { name: 'Kerasaur', cost: 3 }, { name: 'Electro Drake', cost: 1 }, { name: 'Fusion Drake', cost: 1 }],
       sonata: 'Flaming Clawprint',
       effects: [{ pieces: '2-Piece', description: 'Fusion DMG increases by 10%.' }, { pieces: '5-Piece', description: 'Casting Resonance Liberation grants the team Fusion DMG Bonus and the caster Resonance Liberation DMG Bonus for 35 s.' }],
-      bestStats: null,
       echoAbility: { name: 'Halberd of Glory', rank: 5, cooldown: '20 s', description: 'Summons the Halberd of Glory for an area attack followed by a delayed blast. The equipped Resonator gains Fusion DMG Bonus and Resonance Liberation DMG Bonus.' }
     },
-    buildStats: null
   },
   cartethyia: {
     detailsAvailable: true,
     referenceSource: 'https://wuthering.gg/characters/cartethyia',
     role: 'Main DPS',
-    maxLevel: 90,
     introduction: 'Cartethyia is a wandering knight who travels across Rinascita. Formerly known as the Blessed Maiden, the vessel of Divinity, and the Queen of Gale and Tide, she went by the name Fleurdelys. Now she is a free and unfettered wandering knight.',
     stats: { hp: '14800', atk: '312', def: '611', critRate: '5%', critDMG: '150%', energyRegen: '100%', maxResonanceEnergy: '140' },
-    materials: [{ name: 'Unfading Glory', quantity: '16' }, { name: 'Bamboo Iris', quantity: '20' }, { name: 'FF Tidal Residuum', quantity: '4' }, { name: 'Shell Credit', quantity: '80000', image: '/assets/items/shell-credit.png' }],
     weaponBuild: { name: "Defier's Thorn", level: 90, rank: 5, atk: '412.50', secondary: 'HP 72.23%', passiveName: "Defier's Thorn", passive: 'Increases Max HP by 24%. After casting Intro Skill or Basic Attacks, ignores part of the target DEF when dealing damage. Against a target with Aero Erosion, damage taken is amplified.' },
     echoBuild: {
       echoes: [{ name: 'Reminiscence: Fleurdelys', cost: 4 }, { name: 'Capitaneus', cost: 3 }, { name: "Pilgrim's Shell", cost: 3 }, { name: 'Glacio Drake', cost: 1 }, { name: 'Spectro Drake', cost: 1 }],
       sonata: 'Windward Pilgrimage',
       effects: [{ pieces: '2-Piece', description: 'Aero DMG increases by 10%.' }, { pieces: '5-Piece', description: 'Hitting a target with Aero Erosion increases Crit. Rate by 10% and Aero DMG Bonus by 30% for 10 s.' }],
-      bestStats: null,
       echoAbility: { name: 'Windcleaver', rank: 5, cooldown: '20 s', description: 'Summons Windcleaver to attack repeatedly. The equipped Resonator gains Aero DMG Bonus, with an additional bonus for Aero Resonators and Cartethyia.' }
     },
-    buildStats: null
   },
   shorekeeper: {
     detailsAvailable: true,
     referenceSource: 'https://wuthering.gg/characters/shorekeeper',
     role: 'Support / Healer',
-    maxLevel: 90,
     introduction: 'The Shorekeeper is the guardian of the Black Shores. Desires, bonds, and emotions were things she began to understand only after meeting you.',
     stats: { hp: '16712', atk: '287', def: '1099', critRate: '5%', critDMG: '150%', energyRegen: '100%', maxResonanceEnergy: '140' },
-    materials: [{ name: 'Topological Confinement', quantity: '16' }, { name: 'Nova', quantity: '20' }, { name: 'FF Whisperin Core', quantity: '4' }, { name: 'Shell Credit', quantity: '80000', image: '/assets/items/shell-credit.png' }],
     weaponBuild: { name: 'Stellar Symphony', level: 90, rank: 5, atk: '412.50', secondary: 'Energy Regen 77.04%', passiveName: 'Stellar Symphony', passive: 'Increases HP by 24%. Casting Resonance Liberation restores Concerto Energy. Casting a healing Resonance Skill increases nearby party members ATK for 30 s.' },
     echoBuild: {
       echoes: [{ name: 'Fallacy of No Return', cost: 4 }, { name: 'Rocksteady Guardian', cost: 3 }, { name: 'Stonewall Bracer', cost: 3 }, { name: 'Fission Junrock', cost: 1 }, { name: 'Snip Snap', cost: 1 }],
       sonata: 'Rejuvenating Glow',
       effects: [{ pieces: '2-Piece', description: 'Healing Bonus increases by 10%.' }, { pieces: '5-Piece', description: 'Healing allies increases all party members ATK by 15% for 30 s.' }],
-      bestStats: null,
       echoAbility: { name: 'Fallacy of No Return', rank: 5, cooldown: '20 s', description: 'Deals Spectro DMG based on Max HP, then grants the wielder Energy Regen and all team members ATK. Holding Echo Skill performs a series of follow-up attacks.' }
     },
-    buildStats: null
   },
   lucy: {
     detailsAvailable: true,
@@ -210,18 +190,14 @@ const verifiedCharacterOverrides = {
     rarity: 5,
     weapon: 'Pistols',
     title: 'Netrunner from Night City',
-    maxLevel: 90,
     introduction: 'Lucy Kushinada is an Edgerunner and Netrunner from Night City. She keeps her distance from others while carrying the weight of her past.',
     stats: { hp: '11025', atk: '425', def: '1148', critRate: '5%', critDMG: '150%', energyRegen: '100%', maxResonanceEnergy: '140' },
-    materials: [{ name: 'Nightmare Flashdrive', quantity: '16' }, { name: 'Past Reveries', quantity: '20' }, { name: 'FF Exoswarm Core', quantity: '4' }, { name: 'Shell Credit', quantity: '80000', image: '/assets/items/shell-credit.png' }],
     weaponBuild: { name: 'Spectral Trigger', level: 90, rank: 5, atk: '587.50', secondary: 'Crit. DMG 48.60%', passiveName: 'Spectral Trigger', passive: 'Boosts ATK. Resonance Skill casts grant Spectro DMG Bonus, and inflicting Hack - Shifting increases Heavy Attack damage and lets it ignore part of enemy DEF.' },
     echoBuild: {
       echoes: [{ name: 'Reminiscence - Nightmare: Adam Smasher', cost: 4 }, { name: 'Rocksteady Guardian', cost: 3 }, { name: 'Autopuppet Scout', cost: 3 }, { name: 'Diggy Duggy', cost: 1 }, { name: 'Golden Junrock', cost: 1 }],
       sonata: 'Spectro DMG Bonus',
       effects: [{ pieces: '2-Piece', description: 'Spectro DMG increases by 10%.' }, { pieces: '2-Piece', description: 'Spectro DMG increases by 10%.' }],
-      bestStats: null
     },
-    buildStats: null,
     skills: [
       { name: 'Locked Thread', type: 'Normal Attack', description: 'Uses Lucy’s monowire for chained Spectro attacks, with alternate heavy attacks, aerial attacks, and dodge counters.' },
       { name: 'Protocol Breach', type: 'Resonance Skill', description: 'Charges through a target, follows with Pulse Interference, and enters Deadlock when TCP is full.' },
@@ -244,18 +220,14 @@ const verifiedCharacterOverrides = {
     rarity: 5,
     weapon: 'Sword',
     title: 'Breath of Winds',
-    maxLevel: 90,
     introduction: 'Yangyang: Xuanling is a five-star Havoc Sword user. Born into a musical family in Mingting, she serves as an acting Xuan Watcher and fights to protect others.',
     stats: { hp: '11025', atk: '425', def: '1148', critRate: '5%', critDMG: '150%', energyRegen: '100%', maxResonanceEnergy: '140' },
-    materials: [{ name: "Solidarity's Loneflame", quantity: '16' }, { name: 'Cloudperch Seed', quantity: '20' }, { name: 'FF Autopuppet Kernel', quantity: '4' }, { name: 'Shell Credit', quantity: '80000', image: '/assets/items/shell-credit.png' }],
     weaponBuild: { name: 'Azure Oath', level: 90, rank: 5, atk: '587.50', secondary: 'Crit. Rate 24.30%', passiveName: 'Azure Oath', passive: 'Grants All-Attribute DMG Bonus. Applying Havoc Bane boosts Heavy Attack damage and lets it ignore part of the target’s DEF.' },
     echoBuild: {
       echoes: [{ name: 'Thousand-Puppet Pavilion', cost: 4 }, { name: 'Fog Lionarch', cost: 3 }, { name: 'Forbidden Bastion', cost: 3 }, { name: 'Smiter', cost: 1 }, { name: 'Kernel Puppet: Joy', cost: 1 }],
       sonata: 'Song of Feathered Trace',
       effects: [{ pieces: '2-Piece', description: 'Energy Regen increases by 10%.' }, { pieces: '5-Piece', description: 'Applying Havoc Bane grants Xuanling’s Feather, increasing Crit. Rate and Heavy Attack DMG for a limited time.' }],
-      bestStats: null
     },
-    buildStats: null,
     skills: [
       { name: 'Succor and Smite', type: 'Normal Attack', description: 'Switches between Azure and Feather Sword Stances. Her attacks build Melody and apply Havoc Bane.' },
       { name: "Feather's Edge", type: 'Resonance Skill', description: 'Flows between sword stances, restoring Melody and Azure Plume while dealing Havoc DMG.' },
@@ -277,18 +249,14 @@ const verifiedCharacterOverrides = {
     rarity: 5,
     weapon: 'Rectifier',
     title: 'President of Startorch Academy',
-    maxLevel: 90,
     introduction: 'Lucilla is a five-star Glacio Rectifier user and the President of Startorch Academy. She watches over her students as they reach for the stars.',
     stats: { hp: '12237', atk: '375', def: '1197', critRate: '5%', critDMG: '150%', energyRegen: '100%', maxResonanceEnergy: '140' },
-    materials: [{ name: "Suncoveter's Reach", quantity: '16' }, { name: 'Forget-Me-Not', quantity: '20' }, { name: 'FF Mech Core', quantity: '4' }, { name: 'Shell Credit', quantity: '80000', image: '/assets/items/shell-credit.png' }],
     weaponBuild: { name: 'Freeze Frame', level: 90, rank: 5, atk: '587.50', secondary: 'Crit. Rate 24.30%', passiveName: 'Freeze Frame', passive: 'Increases ATK. Inflicting Glacio Chafe grants the wielder Glacio DMG Bonus and boosts the team’s ATK for a limited time.' },
     echoBuild: {
       echoes: [{ name: 'Reminiscence: Threnodian - Voidborne Construct', cost: 4 }, { name: 'Ironhoof', cost: 3 }, { name: 'Windlash Coleoid', cost: 3 }, { name: 'Shadow Stepper', cost: 1 }, { name: 'Iceglint Dancer', cost: 1 }],
       sonata: 'Wishes of Quiet Snowfall',
       effects: [{ pieces: '2-Piece', description: 'Glacio DMG increases by 10%.' }, { pieces: '5-Piece', description: 'Inflicting Glacio Chafe builds Snowfall, empowering Resonance Liberation or the incoming Resonator’s Glacio DMG.' }],
-      bestStats: null
     },
-    buildStats: null,
     skills: [
       { name: 'Snapshot', type: 'Normal Attack', description: 'Builds Trace through camera-focused attacks, with accurate timing improving the final strike.' },
       { name: 'Phantom Frame', type: 'Resonance Skill', description: 'Pulls in nearby targets and uses the Focus Ring to choose between Compensate and Spotlight.' },
@@ -310,18 +278,14 @@ const verifiedCharacterOverrides = {
     rarity: 5,
     weapon: 'Sword',
     title: 'Miko of Flaming Sakura',
-    maxLevel: 90,
     introduction: 'Hiyuki is a five-star Glacio Sword user from Ashinohara. She remains in Lahai-Roi as the last member of the Special Response Force.',
     stats: { hp: '10300', atk: '462', def: '1112', critRate: '5%', critDMG: '150%', energyRegen: '100%', maxResonanceEnergy: '140' },
-    materials: [{ name: 'Our Choice', quantity: '16' }, { name: 'Redbell', quantity: '20' }, { name: 'FF Exoswarm Core', quantity: '4' }, { name: 'Shell Credit', quantity: '80000', image: '/assets/items/shell-credit.png' }],
     weaponBuild: { name: 'Frostburn', level: 90, rank: 5, atk: '587.50', secondary: 'Crit. Rate 24.30%', passiveName: 'Frostburn', passive: 'Increases ATK. Applying Glacio Chafe boosts Glacio DMG and lets Resonance Liberation ignore part of enemy DEF; it also amplifies nearby Glacio Chafe damage while Hiyuki is active.' },
     echoBuild: {
       echoes: [{ name: 'Reminiscence: Threnodian - Voidborne Construct', cost: 4 }, { name: 'Ironhoof', cost: 3 }, { name: 'Frostbite Coleoid', cost: 3 }, { name: 'Tremor Warrior', cost: 1 }, { name: 'Iceglint Dancer', cost: 1 }],
       sonata: 'Wishes of Quiet Snowfall',
       effects: [{ pieces: '2-Piece', description: 'Glacio DMG increases by 10%.' }, { pieces: '5-Piece', description: 'Inflicting Glacio Chafe builds Snowfall, empowering Resonance Liberation or the incoming Resonator’s Glacio DMG.' }],
-      bestStats: null
     },
-    buildStats: null,
     skills: [
       { name: 'Flaming Sakura Blade Art', type: 'Normal Attack', description: 'Attacks in Present Self and Foreclaimed Self forms, applying Glacio Chafe and building her combat resources.' },
       { name: 'Frostblight', type: 'Resonance Skill', description: 'Deals Glacio DMG and empowers her next attack; in Foreclaimed Self it gains ground and aerial variants.' },
